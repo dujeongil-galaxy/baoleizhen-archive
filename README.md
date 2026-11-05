@@ -35,3 +35,8 @@
 3. `python tools/fetch_api.py --url "https://<域名>/<接口>?page={page}" --end 200 --out data/` 全量抓取并入库。
 
 > 仓库为公开存档，便于被 fork 形成多份副本；如需改为私有，可在仓库设置里切换。
+
+## 归档基线
+
+- 首次内容提交：`02b92e2`（2026-11-05 20:52 +0800），已推送。
+- 改动记账见 [CHANGELOG.md](CHANGELOG.md)，只记录已推送的真实提交号。
