@@ -22,6 +22,17 @@
 - PITFALLS 追加第 6~10 条（云开发无 http 域名、list 无分页、非法文件名、私有图片、畸形解包索引）；README / STATUS 改为完成态。
 - 隐私收尾：测试夹具里的样例 openid 也换成假 ID，全仓 `grep -rE 'o[A-Za-z0-9_-]{25,}'` **0 命中**。
 
+## 2026-11-05 · 离线归档与一键恢复（用户要求：先存着，暂不建 Web） — `759485a`
+
+- 新增 `tools/build_archive.py`：把 `data/` 全量、小程序静态快照、字段说明与还原脚本收成单个自包含 zip，包内 `ARCHIVE_MANIFEST.json` 记录逐文件 SHA256 / 体积 / 条数；用抓取时间作 zip 时间戳，相同内容可复现为相同字节。
+- 产出 `archive/baoleizhen-snapshot.zip`（**695 个文件 / 707 KB**）、`archive/MANIFEST.json`、`archive/RESTORE.txt`。
+- 新增 `tools/restore.py`：`--check` 做 14 项离线校验（清单版本 / 文件齐全 / 无未登记文件 / 逐文件 SHA256 与体积 / 核心文件 / 条数 / id 唯一 / SKU 引用 / 明文 openid），默认解包到 `restored/` 并导出 SQLite `baoleizhen.db`（`skus` / `posts` / `meta`，`json` 列保留完整字段）；任一校验失败拒绝还原。
+- 新增 `tests/test_restore.py`：10 项全过，含 6 类故障注入；其中「明文 openid」「孤立 skuId」两类**同步重算哈希**，确认内容级校验独立于哈希也能判红。
+- 实跑：`restore.py --check` **14/14 PASS**；还原出 `data/` 全量 + SQLite 664 / 195 行，字段抽查正确；全仓 `grep -rE 'o[A-Za-z0-9_-]{25,}'` 0 命中（清掉旧 pyc 缓存后）。
+- 归档刻意排除 README / CHANGELOG / PITFALLS / STATUS，避免每次记账让二进制包变化；改 `data/` 或 `DATA_SUMMARY.md` 后必须重打包。`.gitignore` 加 `restored/`。
+- 文档：README 新增「离线归档与恢复」章节，STATUS 补恢复能力与「当前不建 Web」，PITFALLS 追加第 11~13 条。
+- **按用户要求不搭建任何 Web 服务**，数据以 GitHub 仓库 + 单文件归档静默保存。
+
 ## 校验记录
 
 | 项目 | 命令 | 结果 |
@@ -35,4 +46,7 @@
 | 解包实跑 | `node tools/unpack_wxapkg.cjs <包> <目录> <appid>` | 30 个文件，畸形索引优雅退出 |
 | 全量抓取 | `python tools/fetch_cloud.py --delay 0.1 --workers 3` | 664/664 SKU，0 失败，106.1s |
 | 完整性校验 | `python tools/make_summary.py` | 4/4 PASS（去重 / 引用完整 / 条数一致 / 无明文 openid） |
-| 全仓敏感复查 | `grep -rEl 'o[A-Za-z0-9_-]{25,}' .` | 0 命中 |
+| 全仓敏感复查 | `grep -rEl 'o[A-Za-z0-9_-]{25,}' .` | 0 命中（需先清 `__pycache__`） |
+| 离线归档校验 | `python tools/restore.py --check` | 14/14 PASS |
+| 归档还原实跑 | `python tools/restore.py --out <dir>` | 664 SKU / 195 帖，SQLite 行数一致 |
+| 归档还原自测 | `python tests/test_restore.py` | 10/10 PASS（6 类故障注入全判红） |
