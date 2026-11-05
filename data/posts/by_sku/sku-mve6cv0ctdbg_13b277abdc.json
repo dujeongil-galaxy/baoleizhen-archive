@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad5138a012a8c417d4740d8",
+        "id": "3f1b36026ad5138a012a8c417d4740d8",
+        "skuId": "sku-mve6cv0ctdbg",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：创意苹果MacBook保护壳M4简约线条Air13轻薄Pro14/16透明M3",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "戈芊潮界专某店",
+        "anchorRaw": "戈芊潮界专卖店",
+        "content": "39.9一年左右老化了但是没发黄氧化\n还可以\n主播/店铺：戈芊潮界专某店",
+        "evidenceLevel": "L2",
+        "price": "39.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792349058849_0_x1c4z3.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792349058854_1_rjzusk.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792349066661,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792372004545,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

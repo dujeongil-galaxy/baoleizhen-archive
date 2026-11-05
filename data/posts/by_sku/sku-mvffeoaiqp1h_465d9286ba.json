@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad63b1e018c5cd968e4ba57",
+        "id": "572942446ad63b1e018c5cd968e4ba57",
+        "skuId": "sku-mvffeoaiqp1h",
+        "type": "review",
+        "score": 3,
+        "tag": "",
+        "title": "实测：VALKYRIE 瓦尔基里V36AMG-DRACULA一体水冷",
+        "brand": "VALKYRIE",
+        "brandRaw": "VALKYRIE",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "性能最顶的一款水冷 但是却是寿命换来的 会堵冷头\n但好在售后不错提供发票可以直接换新没有动手能力的不要买vk的水冷，不包括n360等新款已经改良的型号",
+        "evidenceLevel": "L2",
+        "price": "700.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792424727025_0_0tpxey.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792424727026_1_3rmok3.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_bfcc9330cd8efca9",
+        "creditScore": 20,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_bfcc9330cd8efca9"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792424733984,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792424942411,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

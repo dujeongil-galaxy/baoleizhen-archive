@@ -1,0 +1,89 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad6b0ef0088c2d273af3f6b",
+        "id": "ee9c9df06ad6b0ef0088c2d273af3f6b",
+        "skuId": "sku-mvfxd4zclbny",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：华硕 华硕a豆2026新款随身WiFi6pro星刃畅玩天选版M03双重环绕天线",
+        "brand": "某硕",
+        "brandRaw": "华硕",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "坐标湖北武汉，不要买4G的，这玩意就是个物联网卡，其实没什么好处，而且流量是以前用的3倍，特别是特别是在校园里面，你的优先权是最后的，很卡。要买，就上5G。因为4G用不了的情况下，基本上很容易出现，特别是人多的地方",
+        "evidenceLevel": "L3",
+        "price": "35.5",
+        "claimEvidence": "已上传宣称证据 3 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792454884219_0_xh78gl.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792454884222_1_qat6wf.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792454884223_2_f18s65.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792454884224_3_frz19y.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792454884224_4_8lf3yf.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_7c3afbedc2b1f41d",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792454895348,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792455039792,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

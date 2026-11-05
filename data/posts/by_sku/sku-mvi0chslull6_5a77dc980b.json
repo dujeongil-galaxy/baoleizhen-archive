@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad89ce401abf0e206f2a3d2",
+        "id": "572942446ad89ce401abf0e206f2a3d2",
+        "skuId": "sku-mvi0chslull6",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：暴肌独角兽 去皮大鸭腿【卤香味+辣卤香味],110克*16包",
+        "brand": "暴肌独某兽",
+        "brandRaw": "暴肌独角兽",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "独某兽暴肌厨房休闲某品",
+        "anchorRaw": "独某兽暴肌厨房休闲食品",
+        "content": "有臭的，而且不是漏气，我太相信真空包装了，还吃了一口\n主播/店铺：独某兽暴肌厨房休闲某品",
+        "evidenceLevel": "L3",
+        "price": "26.46",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792580832527_0_8zxvp8.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792580832529_1_7hn671.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792580832530_2_71r7g7.jpg"
+          }
+        ],
+        "author": "潇洒",
+        "authorUid": "uid_bb64bc9575b5367c",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_bb64bc9575b5367c"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792580836510,
+        "date": "2026-10-21",
+        "status": "approved",
+        "auditTime": 1792581950459,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792426270489_ifc4s5.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

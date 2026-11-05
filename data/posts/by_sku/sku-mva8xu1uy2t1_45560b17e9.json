@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad173b3015b5f2d3d172949",
+        "id": "572942446ad173b3015b5f2d3d172949",
+        "skuId": "sku-mva8xu1uy2t1",
+        "type": "review",
+        "score": 2,
+        "tag": "品质差",
+        "title": "实测：猪皮卷五香卤肉皮麻辣猪皮卷商用酱香猪皮卷即食下酒菜熟食批发",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "萌萌哒某生",
+        "anchorRaw": "萌萌哒鲜生",
+        "content": "臭臭的，吃完反胃半天\n主播/店铺：萌萌哒某生",
+        "evidenceLevel": "L2",
+        "price": "35.01",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792111531702_0_2t58fj.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792111531705_1_wpmb9i.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_9e8588c32958a798",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792111539741,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792121828488,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

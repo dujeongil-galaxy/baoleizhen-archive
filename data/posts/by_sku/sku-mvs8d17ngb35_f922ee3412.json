@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "fb505a7c6ae20b70003febc344fa8c03",
+        "id": "fb505a7c6ae20b70003febc344fa8c03",
+        "skuId": "sku-mvs8d17ngb35",
+        "type": "review",
+        "score": 3,
+        "tag": "",
+        "title": "实测：人体彩绘笔可水洗道具可擦身体皮肤脸部写字记号笔情侣",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "toy",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "给我发错货了，橙色非常难看，并且很难洗，过敏体质不要买，写完字皮肤发红了",
+        "evidenceLevel": "L2",
+        "price": "1.79",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793198957666_0_moyrb3.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793198957669_1_s7njb8.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_f24055191eaec039",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793198960351,
+        "date": "2026-10-28",
+        "status": "approved",
+        "auditTime": 1793200559507,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

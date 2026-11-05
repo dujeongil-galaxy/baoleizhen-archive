@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad65e15018d875a015adaf6",
+        "id": "572942446ad65e15018d875a015adaf6",
+        "skuId": "sku-mvfkqjdxptqi",
+        "type": "review",
+        "score": 2,
+        "tag": "品质差",
+        "title": "实测：ATK ATKRS6电竞RS6 Ultra+",
+        "brand": "ATK",
+        "brandRaw": "ATK",
+        "category": "digital",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "ATK官方旗舰店",
+        "anchorRaw": "ATK官方旗舰店",
+        "content": "大键卫星轴异响客服一直拖\n主播/店铺：ATK官方旗舰店",
+        "evidenceLevel": "L3",
+        "price": "564.80",
+        "claimEvidence": "已上传宣称证据 4 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792433674443_0_isctsa.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792433674445_1_dk5stv.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792433674446_2_zactrv.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792433674447_3_m9xucx.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792433674448_4_g3qlmk.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792433674449_5_xqubk8.jpg"
+          }
+        ],
+        "author": "鱿鱼小猫",
+        "authorUid": "uid_f52959e29fead5da",
+        "creditScore": 7,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792433685527,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792455061133,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792432946483_7se6pm.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

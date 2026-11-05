@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad622ae0143d0946d9545fd",
+        "id": "3f1b36026ad622ae0143d0946d9545fd",
+        "skuId": "sku-mvfbolaqbqqt",
+        "type": "review",
+        "score": 3,
+        "tag": "划算",
+        "title": "实测：LANCER KING 【拍一享二】去黑头神器鼻贴粉刺",
+        "brand": "LANCER KING",
+        "brandRaw": "LANCER KING",
+        "category": "beauty",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "清洁效果一般 对鼻头不刺激 收缩贴有作用 可以覆盖鼻翼挺大的 跟商品图上面的模样一致",
+        "evidenceLevel": "L2",
+        "price": "12.8",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418474068_0_ylhe5d.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418474072_1_2i41n1.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418474073_2_0qe2kd.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_856e602dbed01aa1",
+        "creditScore": 20,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792418478195,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792418794338,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792419800469_caxy7d.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

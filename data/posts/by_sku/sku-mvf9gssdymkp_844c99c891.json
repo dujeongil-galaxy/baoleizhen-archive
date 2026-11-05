@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad61423015c57aa69dc9241",
+        "id": "025756256ad61423015c57aa69dc9241",
+        "skuId": "sku-mvf9gssdymkp",
+        "type": "review",
+        "score": 5,
+        "tag": "",
+        "title": "实测：小米15手机钢化膜 小米15钢化膜全屏3D热弯膜指纹秒解",
+        "brand": "小米15手机钢化膜",
+        "brandRaw": "小米15手机钢化膜",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "名鹿优品3C数码",
+        "anchorRaw": "名鹿优品3C数码",
+        "content": "指纹识别没问题   厚度还可以   不太留指纹\n主播/店铺：名鹿优品3C数码",
+        "evidenceLevel": "L2",
+        "price": "30.86",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792414749865_0_kjnoly.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792414749866_1_zbbewj.jpg"
+          }
+        ],
+        "author": "略知一二",
+        "authorUid": "uid_2c4724bc3647acca",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_0c04bfb6caa43789"
+        ],
+        "createTime": 1792414755434,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792415828346,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792414348636_1ladqk.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

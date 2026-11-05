@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad021ac00e4737a2f5fd3d6",
+        "id": "025756256ad021ac00e4737a2f5fd3d6",
+        "skuId": "sku-mv8tf36tl64u",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：Ekakashop 适用苹果16pro液态硅胶壳",
+        "brand": "Ekakashop",
+        "brandRaw": "Ekakashop",
+        "category": "digital",
+        "platform": "某东",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "用起来体验感非常差，买手机壳一定不要买这种液态壳，放进口袋不好拿出来，也不好放进去，拿出来还会粘毛，很脏，口袋如果还要卡证或者钱都会一起粘出来，我为此还掉了几次身份证",
+        "evidenceLevel": "L2",
+        "price": "58.51",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792024995675_0_lfllbq.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792024995676_1_x4ooty.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_b52e413f58386df4",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792025004714,
+        "date": "2026-10-15",
+        "status": "approved",
+        "auditTime": 1792029693808,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

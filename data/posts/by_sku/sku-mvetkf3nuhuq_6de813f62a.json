@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad5abd2018339c169bb622e",
+        "id": "572942446ad5abd2018339c169bb622e",
+        "skuId": "sku-mvetkf3nuhuq",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：PLANDOO帕兰朵 帕兰朵新疆袜袜子男女抗菌四季短袜透气运动防臭吸汗浅口百搭黑白",
+        "brand": "PLANDOO帕兰朵",
+        "brandRaw": "PLANDOO帕兰朵",
+        "category": "clothing",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "帕兰朵袜品官方旗某店",
+        "anchorRaw": "帕兰朵袜品官方旗舰店",
+        "content": "宣传是纯棉结果塑料袜子，穿着打滑…\n主播/店铺：帕兰朵袜品官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "27.69",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792388042032_0_4q20qz.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792388042036_1_8zhi1n.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_a7d65013fb716a95",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_24cef911345ecb3d"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792388050444,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792388206458,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

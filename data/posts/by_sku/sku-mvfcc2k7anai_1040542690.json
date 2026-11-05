@@ -1,0 +1,75 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad626f5018ae4686f87f1ad",
+        "id": "572942446ad626f5018ae4686f87f1ad",
+        "skuId": "sku-mvfcc2k7anai",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：梦百合 [三体联名]梦百合升级智解放双智1800mm*2000mm",
+        "brand": "梦某合",
+        "brandRaw": "梦百合",
+        "category": "home",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "太软,真的不推荐,对不起他的价格,一睡就塌",
+        "evidenceLevel": "L2",
+        "price": "5899",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419565849_0_g3c5gx.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419565850_1_k5u3l1.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_76d941ee50db1fbd",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 3,
+        "agreeUserIds": [
+          "uid_0e15c5fc6a83443a",
+          "uid_d48d31ef90153b66",
+          "uid_ed2406ed628f650c"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792419573675,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792420092922,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

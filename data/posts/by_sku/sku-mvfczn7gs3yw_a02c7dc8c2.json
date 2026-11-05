@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad62b41015de84c61f87a5f",
+        "id": "025756256ad62b41015de84c61f87a5f",
+        "skuId": "sku-mvfczn7gs3yw",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：海天 黑松露黑胡椒酱",
+        "brand": "某天",
+        "brandRaw": "海天",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "海天锦淇专某店",
+        "anchorRaw": "海天锦淇专卖店",
+        "content": "特别难吃，我吃了觉得是板蓝根的味道，黑胡椒味道只有一点，他的辣味是像辣椒精的味，我是吃吐了直接扔垃圾桶了。\n主播/店铺：海天锦淇专某店",
+        "evidenceLevel": "L3",
+        "price": "6.92",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792420655069_0_2qewgv.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792420655072_1_qqhs0s.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792420655074_2_8aucai.png"
+          }
+        ],
+        "author": "东子",
+        "authorUid": "uid_b322bc8e171c97a9",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 3,
+        "agreeUserIds": [
+          "uid_5d983515496ffce6",
+          "uid_b322bc8e171c97a9",
+          "uid_1f1d45cc5a07a24a"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792420673514,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792420703422,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792419893887_ul60pg.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

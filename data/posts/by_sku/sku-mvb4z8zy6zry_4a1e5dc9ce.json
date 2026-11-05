@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad245e900de2eb06c1bcaf6",
+        "id": "3f1b36026ad245e900de2eb06c1bcaf6",
+        "skuId": "sku-mvb4z8zy6zry",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：薄荷糖外设 白色折影3.0棱角透光侧刻键帽",
+        "brand": "薄荷糖某设",
+        "brandRaw": "薄荷糖外设",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "薄荷糖某设",
+        "anchorRaw": "薄荷糖外设",
+        "content": "很好看 但是容易脏需要勤清洁\n上灯位买正刻 侧刻看不清字的\n主播/店铺：薄荷糖某设",
+        "evidenceLevel": "L2",
+        "price": "59.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792165347858_0_l4a1ob.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792165347862_1_mbyogz.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792165347864_2_8s743a.png"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_9f1161ecadf8eed6"
+        ],
+        "createTime": 1792165353473,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792167030718,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

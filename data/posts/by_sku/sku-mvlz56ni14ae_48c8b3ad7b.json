@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "a2cf60796adc45c80033dd234831c0ca",
+        "id": "a2cf60796adc45c80033dd234831c0ca",
+        "skuId": "sku-mvlz56ni14ae",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：俏美味 香脆薯条原切咸蛋黄蜂蜜芝士黄青柠味油味马铃薯条美式即食网红休闲",
+        "brand": "俏某味",
+        "brandRaw": "俏美味",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "可以平替脆升升，蜂蜜黄油味味道很淡别买，青柠味有点酸我平时吃不了一点酸，如果能接受感觉还蛮清新的",
+        "evidenceLevel": "L2",
+        "price": "15.89",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792820674359_0_67c9k0.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792820674362_1_wl3198.jpg"
+          }
+        ],
+        "author": "宁宴",
+        "authorUid": "uid_22adc547b9e1a118",
+        "creditScore": 14,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792820680543,
+        "date": "2026-10-24",
+        "status": "approved",
+        "auditTime": 1792831224132,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792473326982_qpu5zk.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

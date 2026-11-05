@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "a2cf60796ae0b5cf008dec97491f8549",
+        "id": "a2cf60796ae0b5cf008dec97491f8549",
+        "skuId": "sku-mvqsaj6rc6u9",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：闫妈烤冷面 东北正宗闫妈妈烤冷面调味酱家庭装",
+        "brand": "闫妈烤某面",
+        "brandRaw": "闫妈烤冷面",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "任何平台买都行，他这个酱料得多买，煎跟炒不一样 ，买过两次，是正宗的味道。",
+        "evidenceLevel": "L2",
+        "price": "13.51",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793111498640_0_egtwpe.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793111498642_1_sa46rl.jpg"
+          }
+        ],
+        "author": "iG",
+        "authorUid": "uid_03166f9e93c1a2dd",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_03166f9e93c1a2dd"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793111503640,
+        "date": "2026-10-27",
+        "status": "approved",
+        "auditTime": 1793111759003,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792232054151_wlr532.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

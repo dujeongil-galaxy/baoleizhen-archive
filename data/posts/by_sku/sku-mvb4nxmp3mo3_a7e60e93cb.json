@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad243d901655387665fcabe",
+        "id": "572942446ad243d901655387665fcabe",
+        "skuId": "sku-mvb4nxmp3mo3",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：CUKTECH 10000毫安磁吸电能块磁吸充电宝支架款",
+        "brand": "CUKTECH",
+        "brandRaw": "CUKTECH",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "酷态科弗菜什专某店",
+        "anchorRaw": "酷态科弗菜什专卖店",
+        "content": "可惜不产了是真的好用 \n还有磁吸充电还可以插线 还可以当支架\n主播/店铺：酷态科弗菜什专某店",
+        "evidenceLevel": "L2",
+        "price": "129",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792164817594_0_w45tv0.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792164817597_1_3kxbfk.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792164817599_2_gq6c9s.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792164825507,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792167038266,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

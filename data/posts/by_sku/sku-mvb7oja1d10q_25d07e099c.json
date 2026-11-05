@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad257a40116bb232de4f423",
+        "id": "025756256ad257a40116bb232de4f423",
+        "skuId": "sku-mvb7oja1d10q",
+        "type": "review",
+        "score": 4,
+        "tag": "",
+        "title": "实测：凯利龙 键盘包+键盘内托 浅灰色3号内托+黑色键盘收纳包【经典款】",
+        "brand": "凯某龙",
+        "brandRaw": "凯利龙",
+        "category": "digital",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "凯利龙数码收某仓",
+        "anchorRaw": "凯利龙数码收纳仓",
+        "content": "稍微有点贵\n但是很合适\n主播/店铺：凯利龙数码收某仓",
+        "evidenceLevel": "L2",
+        "price": "64.62",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792169886349_0_pzh3lq.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792169886353_1_s0vbfr.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792169892433,
+        "date": "2026-10-17",
+        "status": "approved",
+        "auditTime": 1792172216923,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

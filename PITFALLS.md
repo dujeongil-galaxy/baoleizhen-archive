@@ -44,4 +44,37 @@ curl 用 Windows Schannel 做证书吊销检查失败所致。
 
 ## 5. 小程序数据不能直接爬
 
-微信小程序没有公网网页入口，数据全部通过 `wx.request` 走开发者自己的服务器。仅凭小程序名称无法推出接口域名，搜索引擎也查不到。必须先在电脑微信打开一次（留下代码包）或抓一次包，才能进入自动化抓取流程。这是本项目当前唯一的硬阻塞。
+微信小程序没有公网网页入口，数据全部通过 `wx.request` 走开发者自己的服务器。仅凭小程序名称无法推出接口域名，搜索引擎也查不到。必须先在电脑微信打开一次（留下代码包）或抓一次包，才能进入自动化抓取流程。
+
+## 6. 用微信云开发时，扫 http 域名只会得到 0 条
+
+「网购避雷真」解密后 `https://` 域名 **0 命中**，因为它用的是 `wx.cloud.callFunction({name:'post',data:{action:'list'}})`，请求由微信客户端代理，包里只有云环境 ID：`wx.cloud.init({env:"bilei-d1g97vsxp79326658"})`。
+
+**解法**：拿到 env 后探测腾讯云开发 HTTP 访问服务的固定域名格式 `https://<env>.service.tcloudbase.com/<云函数名>`。本例 `/post` 返回 200 全量数据。区分信号很有用：
+
+| 响应 | 含义 |
+| --- | --- |
+| `404 {"code":"INVALID_HOST"}` | 域名对、但不是 HTTP 访问服务的合法 host |
+| `404 {"code":"INVALID_PATH"}` | **域名对**，只是路径不对，继续试云函数名作路径 |
+| `418`（空 body） | `ap-shanghai.tcb.qcloud.la` 旧域名，不走这条 |
+| `200 {"code":0,"data":{"list":[...]}}` | 找到公开只读入口 |
+
+其它路径（`/ask`、`/member`、`/user`）都不通，说明只开放了 `post` 一个云函数。
+
+## 7. 云函数 `list` 无分页，别写翻页逻辑
+
+`post` 默认（或 `action=list`）一次返回全部 664 条 SKU，`page` / `pageSize` / `limit` / `offset` 参数全部被忽略，GET query 与 POST body 结果一致。写通用翻页抓取器前先验证参数是否真的生效，否则会抓 N 遍同样的数据还以为翻完了。帖子数据要另外按 SKU 调 `skuPosts`。
+
+## 8. Windows 非法文件名造成 498 条「假失败」（血泪）
+
+SKU 的 `id` 不是纯 ID，而是 `脱骨侠|无骨鸡爪（450g）|某音|旗舰店` 这种带 `|` 的复合字符串。直接用 `id + ".json"` 当文件名，在 Windows 上抛 `Errno 13 Permission denied`，被上层记成「接口失败」——实际上请求全都成功了，白跑 5 分钟并误判断是被限流。
+
+**解法**：清洗 `[<>:"/\\|?*\x00-\x1f]` + 追加 `sha1(id)[:10]` 保证唯一；配套 `tests/test_fetch_cloud.py` 做**故障注入**（用旧规则故意写含 `|` 的文件，确认真的抛 OSError），确认校验能判红。排查这类问题时先看 `meta.json` 的 `errors[].error` 全文，不要凭「大量失败」就猜限流。
+
+## 9. 实拍图 / 订单凭证是私有读，拿不到原件
+
+帖子里的 `media[].url` 是 `cloud://<env>.<bucket>/media/xxx.jpg`。按 bucket 拼 COS 公网域名返回 `403 Forbidden`（私有读），其它 region 返回 404。存档只保留引用，并在 `data/README.md` 写明，不要假装图片已备份。
+
+## 10. 解包索引项可能畸形
+
+标准 wxapkg 索引是 `nameLen(4) + name + offset(4) + size(4)`，个别包会出现异常 `nameLen`，直接 `readUInt32BE` 会 `ERR_OUT_OF_RANGE` 崩掉整个解包（已有文件能写出但脚本报错）。`tools/unpack_wxapkg.cjs` 里加了边界检查，遇异常项提前结束。

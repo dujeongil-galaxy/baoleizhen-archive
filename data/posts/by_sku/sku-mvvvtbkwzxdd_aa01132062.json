@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "fb505a7c6ae569e6005ac7e36cc0a8ec",
+        "id": "fb505a7c6ae569e6005ac7e36cc0a8ec",
+        "skuId": "sku-mvvvtbkwzxdd",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：憨豆熊 香酥炒豌豆500g罐装即食高蛋白非油炸熟炒豆",
+        "brand": "憨某熊",
+        "brandRaw": "憨豆熊",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "憨豆熊官方旗某店",
+        "anchorRaw": "憨豆熊官方旗舰店",
+        "content": "不是纯豌豆，里面掺杂大量内部粉状颗粒的豆状物品。\n主播/店铺：憨豆熊官方旗某店",
+        "evidenceLevel": "L3",
+        "price": "4.89",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793419745311_0_vs6r9t.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793419745312_1_5s7rai.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793419745313_2_roq9rt.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_d391aaeefa515962",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793419749977,
+        "date": "2026-10-31",
+        "status": "approved",
+        "auditTime": 1793451104387,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

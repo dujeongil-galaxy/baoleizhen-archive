@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad6334e018bbe5833d20f89",
+        "id": "572942446ad6334e018bbe5833d20f89",
+        "skuId": "sku-mvfe7tfxhxuo",
+        "type": "review",
+        "score": 5,
+        "tag": "",
+        "title": "实测：骆驼 CAMEL骆驼暖绒系列【小太阳】石墨烯自发热加厚保暖户外防风防水抗菌抗静电面包",
+        "brand": "某驼",
+        "brandRaw": "骆驼",
+        "category": "clothing",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "无脑入",
+        "evidenceLevel": "L2",
+        "price": "379",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792422730690_0_yfzzj7.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792422730692_1_amgq9g.jpg"
+          }
+        ],
+        "author": "h",
+        "authorUid": "uid_b3071592151f5063",
+        "creditScore": 6,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792422734449,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792422811282,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

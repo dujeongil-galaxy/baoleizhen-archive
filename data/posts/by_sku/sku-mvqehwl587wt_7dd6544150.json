@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "1457ac026ae05b4d0032cc736835e382",
+        "id": "1457ac026ae05b4d0032cc736835e382",
+        "skuId": "sku-mvqehwl587wt",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：兴峰 即食解馋腿",
+        "brand": "某峰",
+        "brandRaw": "兴峰",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "化骨龙食某铺",
+        "anchorRaw": "化骨龙食品铺",
+        "content": "垃圾 不足称腥 而且鸭腿是拼接的 这个骨头断的横截面不一样 这个样子是我在空气炸锅打了一下 我去找客服客服不理我一直装人机回复我 一会儿让我提供这个一会儿提供那个 提供之后又不给我处理问题\n主播/店铺：化骨龙食某铺",
+        "evidenceLevel": "L2",
+        "price": "4.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 3 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793088329167_0_am2t7c.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793088329172_1_l2fc0n.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793088329173_2_txmaof.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793088329173_3_uon0xs.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_9d24ac21fa125473",
+        "creditScore": 11,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793088332900,
+        "date": "2026-10-27",
+        "status": "approved",
+        "auditTime": 1793096042090,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

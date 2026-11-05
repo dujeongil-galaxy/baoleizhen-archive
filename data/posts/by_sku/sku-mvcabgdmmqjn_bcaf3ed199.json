@@ -1,0 +1,85 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad35523012bed616d67b4c6",
+        "id": "025756256ad35523012bed616d67b4c6",
+        "skuId": "sku-mvcabgdmmqjn",
+        "type": "review",
+        "score": 3,
+        "tag": "划算",
+        "title": "实测：泡面先生 黑鸭火鸡面",
+        "brand": "泡面某生",
+        "brandRaw": "泡面先生",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "泡面某生",
+        "anchorRaw": "泡面先生",
+        "content": "黑鸭酱味道很淡 基本就是微微甜和辣味 如果你加了火鸡酱 就是双倍辣（我个人不太能吃辣）加了麻油包会有一点苦味 不过1.99一包性价比很高 但除了价格基本没什么优点 也就黑鸭酱包会有一点小肉粒吧\n主播/店铺：泡面某生",
+        "evidenceLevel": "L2",
+        "price": "19.90",
+        "claimEvidence": "",
+        "realEvidence": "实拍 3 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792234782606_0_y490ur.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792234782609_1_hvf94x.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792234782612_2_xv9h2t.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792234782620_3_bsgnm0.jpg"
+          }
+        ],
+        "author": "弗雷尔卓德-鱼🐟",
+        "authorUid": "uid_0e92b9234792c0a8",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_e2122e6fad0535cb"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792234787164,
+        "date": "2026-10-17",
+        "status": "approved",
+        "auditTime": 1792235291952,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791966949261_mf55b1.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad21e9f0058afac0200b581",
+        "id": "ee9c9df06ad21e9f0058afac0200b581",
+        "skuId": "sku-mvayzoigpcv6",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：Bose BoseQC45二代QC消噪耳机",
+        "brand": "Bose",
+        "brandRaw": "Bose",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "潮品直供数某店",
+        "anchorRaw": "潮品直供数码店",
+        "content": "虽然出三代了但是没有升级什么 最重要的降噪依旧没有怎么提升\n这个价格入耳你可以买airpods 但是头戴必选它\n这个耳机不夹耳朵 特别轻 降噪很nb\n而且现在不到一千就能买全新的 我只能说价位到一千了就无脑买这个 不要建议去看二手airpods max\n主播/店铺：潮品直供数某店",
+        "evidenceLevel": "L2",
+        "price": "1138",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792155289472_0_892g92.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792155289474_1_gmpm1a.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792155295891,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792156105597,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

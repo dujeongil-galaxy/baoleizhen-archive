@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06aca3e35000080b86bcbbacd",
+        "id": "ee9c9df06aca3e35000080b86bcbbacd",
+        "skuId": "sku-mv2fnoh9h7tk",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：德国铁布衫数码品牌店 德国铁布衫适用iQOONeo10Pro手机壳neo9/8/7/5se气囊保护套iqooz10turbo镜头z9x四角全包u3防摔z8z6z5x女款z3（1）",
+        "brand": "德国铁布衫数码品某店",
+        "brandRaw": "德国铁布衫数码品牌店",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "其他",
+        "anchor": "德国铁布衫数码品牌店（个人添加：这是假冒的）",
+        "anchorRaw": "德国铁布衫数码品牌店（个人添加：这是假冒的）",
+        "content": "这是假货，挂个德国铁布衫，卖75，详情界面是钢甲侠的logo，最后声明界面是柠乐工作室的，实际促销价18块8。挂个名就想翻好几倍，纯卖假货。\n直接放淘宝人工审核实锤证据图，不要觉得贵就是正品。这家纯假货来的，买前多看看。\n主播/店铺：德国铁布衫数码品牌店（个人添加：这是假冒的）",
+        "evidenceLevel": "L3",
+        "price": "65",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 4 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639085858_0_y0lrd7.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639085860_1_h9hhtm.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639085861_2_hdkoc2.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639085861_3_ugihd6.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639085862_4_g83yff.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639085862_5_18fzr0.jpg"
+          }
+        ],
+        "author": "我就是想买个手机壳",
+        "authorUid": "uid_58088de7271a61d1",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 13,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666",
+          "uid_30835a21f9439610",
+          "uid_4b47ea9827b570b2",
+          "uid_7fb670ba40c9ede1",
+          "uid_429cd24ce48f3482",
+          "uid_0c9752cceafd8e9c",
+          "uid_fe6a9c82dcf7ba03",
+          "uid_5a1044d972ec85c8",
+          "uid_f58c31da69f20324",
+          "uid_3c5771d2ebb67039",
+          "uid_b6d5804d58034f92",
+          "uid_8227130a5e3e7502",
+          "uid_fac5ec6ec2c60a67"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791639093883,
+        "date": "2026-10-10",
+        "status": "approved",
+        "auditTime": 1791642171295,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791638681950_3wfp61.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

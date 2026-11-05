@@ -1,0 +1,185 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad60aea0083a5af77a97af5",
+        "id": "ee9c9df06ad60aea0083a5af77a97af5",
+        "skuId": "sku-mv6szy3s6h7v",
+        "type": "review",
+        "score": 3,
+        "tag": "一般",
+        "title": "实测：蛋小喜 蛋小喜清水蛋懒人营养早餐无抗水煮鸡蛋独立小包装低卡整箱速食免煮开袋即食",
+        "brand": "蛋某喜",
+        "brandRaw": "蛋小喜",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "蛋某喜",
+        "anchorRaw": "蛋小喜",
+        "content": "我觉得还可以，我领了券的原因，所以买的话我，平均下来0.57一个，比生鸡蛋还便宜，所以价格的话挺划算的，收到货的话有几个去漏气的客服也给退了我，如果价格能到这个价格的话，我觉得还是值得购买的，至于没有吃到里面臭的情况，以及发霉的情况\n主播/店铺：蛋某喜",
+        "evidenceLevel": "L3",
+        "price": "23.7",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 3 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792412383451_0_dadkw7.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792412383454_1_67tv3z.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792412383454_2_yrvuti.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792412383455_3_muivhe.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792412383455_4_fuv684.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_f83e0c86d3307032",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_f83e0c86d3307032"
+        ],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_e1655926a992ee53",
+          "uid_f83e0c86d3307032"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792412394600,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792413146788,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      },
+      {
+        "_id": "572942446ace468601391d5d30265617",
+        "id": "572942446ace468601391d5d30265617",
+        "skuId": "sku-mv6szy3s6h7v",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：蛋小喜 水煮鸡蛋（45g）",
+        "brand": "蛋某喜",
+        "brandRaw": "蛋小喜",
+        "category": "food",
+        "platform": "某宝",
+        "channel": "旗舰店",
+        "anchor": "蛋某喜",
+        "anchorRaw": "蛋小喜",
+        "content": "尽量别买这个品牌的水煮鸡蛋，买到之后有可能会有一两个坏的放久了也会坏几个真的好臭就上都馊了，臭到不能再臭了买到之后有可能会有一两个坏的，放久了也会坏几个，真的好臭鸡蛋都馊了，臭的不能再臭我一开始打开还没发现，我就咬了一口才发现那个手臭死了，还有我嘴臭死了😡，\n主播/店铺：蛋某喜",
+        "evidenceLevel": "L3",
+        "price": "30",
+        "claimEvidence": "已上传宣称证据 2 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791903356045_0_l6wbsz.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791903356046_1_zvfmhh.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791903356047_2_onxieh.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791903356047_3_dca2st.jpg"
+          }
+        ],
+        "author": "無駄無駄無駄無駄！",
+        "authorUid": "uid_49070fce18bf234c",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 4,
+        "helpfulUserIds": [
+          "uid_49070fce18bf234c",
+          "uid_3c23ef6a4e6e3eb2",
+          "uid_438aef378e6f06ef",
+          "uid_897fb306ae9ddf75"
+        ],
+        "agreeCount": 8,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666",
+          "uid_49070fce18bf234c",
+          "uid_3c23ef6a4e6e3eb2",
+          "uid_2dd9a90a18171333",
+          "uid_897fb306ae9ddf75",
+          "uid_e1655926a992ee53",
+          "uid_67374e7a2d43f77f",
+          "uid_53cd5bc01f8e1424"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791903365926,
+        "date": "2026-10-13",
+        "status": "approved",
+        "auditTime": 1791903937163,
+        "adminCategoryEditTime": 1791980416938,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791903024034_0dyti0.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

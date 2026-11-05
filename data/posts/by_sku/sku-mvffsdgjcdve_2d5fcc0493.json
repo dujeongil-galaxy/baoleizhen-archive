@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad63d9d0086366c2bdea10e",
+        "id": "ee9c9df06ad63d9d0086366c2bdea10e",
+        "skuId": "sku-mvffsdgjcdve",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：OPPO Find X9 Pro手机哈苏2亿长焦镜头",
+        "brand": "OPPO",
+        "brandRaw": "OPPO",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "OPPO墨白专门店",
+        "anchorRaw": "OPPO墨白专门店",
+        "content": "这个手机，我用下来发热很正常，续航也可以，系统也不错，使用下来没有任何问题。现在没有办法拍这个手机，只能截屏证明了\n主播/店铺：OPPO墨白专门店",
+        "evidenceLevel": "L2",
+        "price": "5334",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425368402_0_03yfpu.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425368404_1_co5yn1.jpg"
+          }
+        ],
+        "author": "付谢娜",
+        "authorUid": "uid_0cd5e05fb284b982",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_0e657f38d378c67d"
+        ],
+        "doubtCount": 2,
+        "doubtUserIds": [
+          "uid_c09ed2e4b4c0f9b2",
+          "uid_d49c0a55a792a2d4"
+        ],
+        "createTime": 1792425373071,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792425395259,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 33,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792425025089_g6jyv1.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

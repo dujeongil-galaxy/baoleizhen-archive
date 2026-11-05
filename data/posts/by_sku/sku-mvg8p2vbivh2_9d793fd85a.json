@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad6fb4801963ccf08481e8a",
+        "id": "572942446ad6fb4801963ccf08481e8a",
+        "skuId": "sku-mvg8p2vbivh2",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：ALL KEEP ALLKEEP酵母蛋白粉76%蛋白粉5磅",
+        "brand": "ALL KEEP",
+        "brandRaw": "ALL KEEP",
+        "category": "sports",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "性价比挺高，口感能接受，有轻微飞粉，水尽量比推荐多一点点，味道跟溶解度不如乳清，不能像乳清一样一次加几勺都能摇匀，但是现在乳清这个价格，要什么自行车，就是那个雷霆大勺非常不实用，太长了满桶很难塞，要留别的小勺子，舀的时候很容易在手上沾点粉",
+        "evidenceLevel": "L2",
+        "price": "163.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792473921711_0_jodnom.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792473921713_1_57m2mc.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_763363d856f75ac5",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_7b95ddb74e81e391"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792473928274,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792475512864,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

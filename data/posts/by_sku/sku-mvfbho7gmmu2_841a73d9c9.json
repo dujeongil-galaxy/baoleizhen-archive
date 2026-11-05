@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad6216b0084eb574a460fb5",
+        "id": "ee9c9df06ad6216b0084eb574a460fb5",
+        "skuId": "sku-mvfbho7gmmu2",
+        "type": "review",
+        "score": 3,
+        "tag": "一般",
+        "title": "实测：韩纪 去黑头鼻贴深层收缩清洁去粉刺闭口T区护理套装学生买即鼻贴两盒[第二盒半价]",
+        "brand": "某纪",
+        "brandRaw": "韩纪",
+        "category": "beauty",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "对鼻头有相当的刺激性 鼻头会发红 一次性没法去除干净 收缩贴作用为零 用了也不会变小",
+        "evidenceLevel": "L2",
+        "price": "12.8",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418151237_0_h1xj6o.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418151242_1_kxj53n.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_856e602dbed01aa1",
+        "creditScore": 20,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792418155400,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792418806650,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792419800469_caxy7d.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

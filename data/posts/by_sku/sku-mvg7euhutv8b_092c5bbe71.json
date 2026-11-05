@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad6f2db01681d2f66902512",
+        "id": "025756256ad6f2db01681d2f66902512",
+        "skuId": "sku-mvg7euhutv8b",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：白云山 壬二酸清..黑头吸尘器",
+        "brand": "白某山",
+        "brandRaw": "白云山",
+        "category": "beauty",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "买完用了两次，脸上火辣辣的疼，皮肤也红红的很难受，效果也没有，完全是夸大宣传，实物图是没有了，这个东西还剩了两瓶被我放柜子角落了，现在拍不了，不信邪你就去买两瓶试试再退了",
+        "evidenceLevel": "L2",
+        "price": "79.90",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792471765151_0_wtykd9.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792471765154_1_4fdteo.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_4af21919dcbf67e8",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_548790c42b91dc8f"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792471771221,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792472063253,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

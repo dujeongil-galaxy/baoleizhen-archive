@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad604010188fa645cc4a5b4",
+        "id": "572942446ad604010188fa645cc4a5b4",
+        "skuId": "sku-mvf70a42cjuz",
+        "type": "review",
+        "score": 3,
+        "tag": "",
+        "title": "实测：膳魔师 【一人食双杯】全自酸奶机KA9101-Y 米白色(一键完成)",
+        "brand": "膳某师",
+        "brandRaw": "膳魔师",
+        "category": "appliance",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "1.声音很大，宿舍用的话晚上有点吵\n2.如果中间断电的话就要重新开始算时间\n3.按键感觉不太灵敏\n4.感觉和普通的酸奶机没什么区别，就是做成了杯子的形状，价格也贵\n5.做出来的东西没毛病可以喝",
+        "evidenceLevel": "L2",
+        "price": "299.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792410619222_0_d08b13.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792410619226_1_jiylhx.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_2001c7ab989eb452",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792410625520,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792410776032,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

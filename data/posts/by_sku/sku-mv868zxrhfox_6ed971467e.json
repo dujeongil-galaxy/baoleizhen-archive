@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446acf89a90147aeb930675389",
+        "id": "572942446acf89a90147aeb930675389",
+        "skuId": "sku-mv868zxrhfox",
+        "type": "review",
+        "score": 3,
+        "tag": "",
+        "title": "实测：日本狮王 薬用シャンプー（去屑洗发水）（320ml/瓶）",
+        "brand": "日本某王",
+        "brandRaw": "日本狮王",
+        "category": "beauty",
+        "platform": "某多",
+        "channel": "其他",
+        "anchor": "Richie美妆海外专营店",
+        "anchorRaw": "Richie美妆海外专营店",
+        "content": "控油我觉得还可以🌚洗的也是一股草香味（类似于海飞丝更高级点的味道）\n去屑我没有很清楚。不过防脱发有一点点用 我觉得少掉头发了（可能心理作用。）\n但贵也是真的贵 一瓶20。而且不能长期洗 一周只能洗一两次 因为是日本佬的货要走海外 不能七天无理由 退货退款也有点困难。。\n主播/店铺：Richie美妆海外专营店",
+        "evidenceLevel": "L2",
+        "price": "39.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791986080592_0_hex0vn.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791986080603_1_4069bn.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791986080604_2_c0pd0w.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_ce3b27914c8d21ed",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 2,
+        "helpfulUserIds": [
+          "uid_ce3b27914c8d21ed",
+          "uid_50be87c77cacdf8b"
+        ],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_ce3b27914c8d21ed"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791986089398,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791986683902,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791986179205_x726sa.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

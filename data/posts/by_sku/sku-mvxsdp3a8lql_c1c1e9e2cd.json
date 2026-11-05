@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "1457ac026ae72bc2006b8070487e0ab4",
+        "id": "1457ac026ae72bc2006b8070487e0ab4",
+        "skuId": "sku-mvxsdp3a8lql",
+        "type": "review",
+        "score": 1,
+        "tag": "一般",
+        "title": "实测：感冒药品，感冒灵颗粒，苦金片 咽炎片",
+        "brand": "感冒药品，感冒灵颗粒，苦金片",
+        "brandRaw": "感冒药品，感冒灵颗粒，苦金片",
+        "category": "health",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "和平某房",
+        "anchorRaw": "和平药房",
+        "content": "就在刚刚，我去买那个药，我一直在问那个药多少钱，他都不理我。然后问我有没有会员，我说没有。然后他说开一个吧，我说好。然后他说有优惠券，我就弄了。然后旁边有一个人在说啊，给这个小弟弟送一瓶维生素 C 吧。然后就给我拿了一瓶维生素 C，我当时看见那个价格是 19.9 元，结果呢，我后面到这个小程序来一看，我订单里面居然有这个维生素 C，就是说那个东西他是给我算了钱的，而且这几个市场价根本就不合理。再怎么样都不可能收八十几了，然后一结账，发现 81，这还是用了他们那个优惠券，优惠了 8 块钱的我现在非常生气，我已经打电话给他们总店的客服投诉了，我等一下就去把它退掉。这个店铺是和平药房大学城中路店。\n主播/店铺：和平某房",
+        "evidenceLevel": "L2",
+        "price": "81",
+        "claimEvidence": "",
+        "realEvidence": "实拍 3 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793534909451_0_vq1ro8.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793534909453_1_jl3c4i.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793534909454_2_26rcto.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793534909454_3_mdbpnb.jpg"
+          }
+        ],
+        "author": "水方",
+        "authorUid": "uid_6ae0442f91b3ec42",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793534914473,
+        "date": "2026-11-01",
+        "status": "approved",
+        "auditTime": 1793629851776,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1793513500415_wleupg.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

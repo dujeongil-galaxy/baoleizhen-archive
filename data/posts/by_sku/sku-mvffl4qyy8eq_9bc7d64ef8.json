@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad63c4b015eb716420d17e7",
+        "id": "025756256ad63c4b015eb716420d17e7",
+        "skuId": "sku-mvffl4qyy8eq",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：小布农 小布农竹炭记忆棉床垫1.5米x2米",
+        "brand": "小某农",
+        "brandRaw": "小布农",
+        "category": "home",
+        "platform": "某东",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "睡觉真的闷背，开空调也闷，商家要我再买个竹席垫着，而且没有支撑睡的也不舒服。",
+        "evidenceLevel": "L2",
+        "price": "349.95",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425029493_0_xq4lfd.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425029497_1_19qgyn.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_3b399d2c8421dab8",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792425035253,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792425039100,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

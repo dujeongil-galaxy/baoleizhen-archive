@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256acf98b600dda4363fff5eec",
+        "id": "025756256acf98b600dda4363fff5eec",
+        "skuId": "sku-mv88jkobqdy5",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：全自动智能电动床架零重力助起黑科技互不打扰震动哄睡支持米家（等会okin双电机 不分区+弹簧床垫 米家控制 没有按摩）",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "home",
+        "platform": "某多",
+        "channel": "旗舰店",
+        "anchor": "慕暖暖某居",
+        "anchorRaw": "慕暖暖家居",
+        "content": "可以说是电动床的最低价了 唯一的缺点就是 床垫左右容易位移导致电机轻微响动 要是不是自己调整 但是两千多你要啥自行车 支撑是有的 现在可以便宜一百左右\n主播/店铺：慕暖暖某居",
+        "evidenceLevel": "L2",
+        "price": "2379",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791989934114_0_u2eh0h.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791989934118_1_nta9gb.jpg"
+          }
+        ],
+        "author": "🏠",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791989942072,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791990654363,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

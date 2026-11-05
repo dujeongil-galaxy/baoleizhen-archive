@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "e033fa346ae1a3fc006a96eb745b7fb9",
+        "id": "e033fa346ae1a3fc006a96eb745b7fb9",
+        "skuId": "sku-mvrsldx3m5fr",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：沪上阿姨 一抹相思(红豆抹茶)大杯",
+        "brand": "沪上某姨",
+        "brandRaw": "沪上阿姨",
+        "category": "drink",
+        "platform": "某东",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "完全没有抹茶味，奶味也比较淡，很水，红豆也都是罐头红豆，没有红豆沙口感，拉完了",
+        "evidenceLevel": "L2",
+        "price": "14.66",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793172473321_0_lw7u17.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793172473323_1_msup4y.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_6b5c9c58cc311d76",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793172476202,
+        "date": "2026-10-28",
+        "status": "approved",
+        "auditTime": 1793186008820,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

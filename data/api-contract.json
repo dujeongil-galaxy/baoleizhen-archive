@@ -1,0 +1,112 @@
+{
+  "name": "网购避雷真",
+  "appid": "wx5bd3aa9f4674cca5",
+  "cloud_env": "bilei-d1g97vsxp79326658",
+  "http_endpoint": "https://bilei-d1g97vsxp79326658.service.tcloudbase.com/post",
+  "transport": "小程序内 wx.cloud.callFunction({name:'post',data:{action:...}})；该云函数开启了 HTTP 访问服务，故可从公网只读访问",
+  "discovered_from": "本机微信 PC 小程序包 wx5bd3aa9f4674cca5/11/__APP__.wxapkg（V1MMWX 解密 + 解包）",
+  "cloud_functions_in_code": [
+    "post",
+    "ask",
+    "member",
+    "user"
+  ],
+  "actions_in_code": [
+    "adUnlock",
+    "addUpdate",
+    "adoptReply",
+    "appeal",
+    "arbitrationList",
+    "arbitrationVote",
+    "askClass",
+    "bindPhone",
+    "brandApply",
+    "brandApplyStatus",
+    "config",
+    "create",
+    "delete",
+    "deleteAccount",
+    "deletePost",
+    "detail",
+    "follow",
+    "heatAdUnlock",
+    "heatCreate",
+    "helpful",
+    "init",
+    "juryList",
+    "like",
+    "list",
+    "liveCount",
+    "login",
+    "memberInfo",
+    "merchantAudit",
+    "merchantBrands",
+    "merchantPosts",
+    "merchantReply",
+    "myFollowers",
+    "myFollows",
+    "myList",
+    "myPosts",
+    "myReplyStats",
+    "notifyList",
+    "notifyRead",
+    "orderCreate",
+    "plans",
+    "reply",
+    "replyDelete",
+    "report",
+    "search",
+    "skuPosts",
+    "subAdd",
+    "subList",
+    "subRemove",
+    "trackView",
+    "unfollow",
+    "updateProfile",
+    "userAsks",
+    "userPosts",
+    "userProfile",
+    "userReplies",
+    "vote"
+  ],
+  "verified_public_http_actions": {
+    "list": "一次返回全量 664 条 SKU 聚合，无分页参数（page/limit/offset 均被忽略）",
+    "skuPosts": "需 skuId，返回该 SKU 下全部实测帖（含正文、评分、证据、媒体引用）",
+    "liveCount": "返回 6 条 + total=6",
+    "myPosts": "当前身份为空列表",
+    "subList": "订阅词配置（当前身份）",
+    "merchantBrands": "商家品牌配置",
+    "merchantPosts": "空列表",
+    "brandApplyStatus": "申请状态"
+  },
+  "probe_read_only_results": {
+    "liveCount": {
+      "code": 0,
+      "msg": ""
+    },
+    "subList": {
+      "code": 0,
+      "msg": ""
+    },
+    "merchantBrands": {
+      "code": 0,
+      "msg": ""
+    },
+    "merchantPosts": {
+      "code": 0,
+      "msg": ""
+    },
+    "brandApplyStatus": {
+      "code": 0,
+      "msg": ""
+    },
+    "myPosts": {
+      "code": 0,
+      "msg": ""
+    }
+  },
+  "media": "帖子里的实拍/订单凭证为 cloud:// 私有读地址，COS 直链返回 403，本存档仅保留引用，不下载图片",
+  "privacy": "openid / uid 类字段做一致性哈希脱敏（uid_ 前缀），其余字段原样保留",
+  "write_actions_never_called": true,
+  "note": "只探测并调用了只读 action；create/delete/reply/vote/like/report 等写操作从未调用"
+}

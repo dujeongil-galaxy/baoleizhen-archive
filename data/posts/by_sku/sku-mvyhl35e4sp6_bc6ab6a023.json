@@ -1,0 +1,89 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "a2cf60796ae7d121010c65ef27c59faf",
+        "id": "a2cf60796ae7d121010c65ef27c59faf",
+        "skuId": "sku-mvyhl35e4sp6",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：新疆阿瓦提棉花被芯被褥100%棉",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "home",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "老班长棉被源头某厂",
+        "anchorRaw": "老班长棉被源头工厂",
+        "content": "酸臭，脚臭，这个价格没必要买个臭的回来\n主播/店铺：老班长棉被源头某厂",
+        "evidenceLevel": "L3",
+        "price": "144.00",
+        "claimEvidence": "已上传宣称证据 3 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793577238555_0_k1cvtu.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793577238560_1_nkpqdn.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793577238561_2_o67lwa.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793577238562_3_ok8gs8.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793577238564_4_b6ryuc.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_ec72befcf9a29161",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793577249677,
+        "date": "2026-11-02",
+        "status": "approved",
+        "updates": [],
+        "auditTime": 1793629845786,
+        "isMine": false,
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

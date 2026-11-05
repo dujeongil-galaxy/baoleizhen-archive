@@ -1,0 +1,143 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "a2cf60796ae7501b01048fee0608b769",
+        "id": "a2cf60796ae7501b01048fee0608b769",
+        "skuId": "sku-mv88zmwcpkmh",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：乐瓦 人体工学椅",
+        "brand": "某瓦",
+        "brandRaw": "乐瓦",
+        "category": "home",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "ENOVA家具旗舰店",
+        "anchorRaw": "ENOVA家具旗舰店",
+        "content": "凑单可以到一千出头\n主播/店铺：ENOVA家具旗舰店",
+        "evidenceLevel": "L2",
+        "price": "1065.0",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793544213355_0_vxn29a.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793544213359_1_ndd7ls.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_2f81540dc3861971",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793544219174,
+        "date": "2026-11-01",
+        "status": "approved",
+        "auditTime": 1793629848362,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      },
+      {
+        "_id": "3f1b36026acf9ba30090583904f11f62",
+        "id": "3f1b36026acf9ba30090583904f11f62",
+        "skuId": "sku-mv88zmwcpkmh",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：乐瓦 【新品】乐瓦ENOVA合金大师2代人体工学家用舒适久坐办公椅电脑椅（s+版）",
+        "brand": "某瓦",
+        "brandRaw": "乐瓦",
+        "category": "home",
+        "platform": "某多",
+        "channel": "旗舰店",
+        "anchor": "ENOVA家具旗舰店",
+        "anchorRaw": "ENOVA家具旗舰店",
+        "content": "某东等双十一应该可以更便宜的买到 这个版本是最有性价比的 有脚拖 今天某多的价格已经来到1549 已经要比我这个价格便宜再下单 品控可以 但是轮子三个月左右开始掉屑 适合170-180cm 200斤以下的人\n主播/店铺：ENOVA家具旗舰店",
+        "evidenceLevel": "L2",
+        "price": "1398",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791990684642_0_lic6qs.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791990684646_1_lul1ku.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791990684648_2_0jvdu6.jpg"
+          }
+        ],
+        "author": "🏠",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_ebe7ccb120a3a527"
+        ],
+        "createTime": 1791990691455,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791990708251,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

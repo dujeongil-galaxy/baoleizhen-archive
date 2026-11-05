@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026acf7065008b6a951d32fa7d",
+        "id": "3f1b36026acf7065008b6a951d32fa7d",
+        "skuId": "sku-mv82ed629xar",
+        "type": "review",
+        "score": 4,
+        "tag": "划算",
+        "title": "实测：果果有棠 应季水果罐头（248g×5）",
+        "brand": "果果某棠",
+        "brandRaw": "果果有棠",
+        "category": "food",
+        "platform": "某宝",
+        "channel": "旗舰店",
+        "anchor": "果果某棠",
+        "anchorRaw": "果果有棠",
+        "content": "冲着不甜的罐头去的，实际实际吃下来，除了橘子，另外几款都比想象中的要甜。\n主播/店铺：果果某棠",
+        "evidenceLevel": "L2",
+        "price": "21.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791979617463_0_b2l7bp.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791979617466_1_7a2doz.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_03418a1ba1416645",
+        "creditScore": 6,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_7c6b37d77f1f35d1"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791979621359,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791980188381,
+        "adminCategoryEditTime": 1791980456622,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979991246_44xyvr.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

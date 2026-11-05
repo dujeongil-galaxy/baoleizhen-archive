@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad643d40086645c1f6290e0",
+        "id": "ee9c9df06ad643d40086645c1f6290e0",
+        "skuId": "sku-mvfgqhg3vbkg",
+        "type": "review",
+        "score": 3,
+        "tag": "品质差",
+        "title": "实测：瓦尔基里鼠标 VKM5经典握持三模...梅林含防滑贴",
+        "brand": "瓦尔基里某标",
+        "brandRaw": "瓦尔基里鼠标",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "瓦尔基里旗某店",
+        "anchorRaw": "瓦尔基里旗舰店",
+        "content": "不管是瓦尔基里的水冷还是鼠标，都不推荐。 那个鼠标右键，平时就玩射击类游戏，开开镜，结果就这品控。要不是我 12315 投诉他们，压力给到平台，平台才给我退货退款的。\n主播/店铺：瓦尔基里旗某店",
+        "evidenceLevel": "L3",
+        "price": "135.29",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792426959798_0_7uop4b.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792426959800_1_khewpk.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792426959801_2_ga32lv.jpg"
+          }
+        ],
+        "author": "凡人",
+        "authorUid": "uid_ce33d98c30094080",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792426964590,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792428127236,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792426653783_tpqjhv.jpeg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

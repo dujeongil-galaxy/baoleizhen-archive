@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad75043009244dd61179311",
+        "id": "ee9c9df06ad75043009244dd61179311",
+        "skuId": "sku-mvglncz4zsxf",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：洁丽雅 来自抖音商城",
+        "brand": "洁某雅",
+        "brandRaw": "洁丽雅",
+        "category": "home",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "都说咋样都不会打滑，其实只有在干地上不会，如果你地有一点水或者是有一点什么油啊跟溜冰一样。这小程序不能上传视频啊，可以的话，我还有视频。",
+        "evidenceLevel": "L3",
+        "price": "32.90",
+        "claimEvidence": "已上传宣称证据 2 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792495666144_0_gr524a.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792495666145_1_9wvxun.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792495666146_2_0jju99.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792495666146_3_hro1mm.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_23199ef9f40914fc",
+        "creditScore": 6,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792495683045,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792501041726,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792495812097_os9eho.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

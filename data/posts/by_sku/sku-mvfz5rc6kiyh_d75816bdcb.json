@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad6bcb6008980c455edb38e",
+        "id": "ee9c9df06ad6bcb6008980c455edb38e",
+        "skuId": "sku-mvfz5rc6kiyh",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：希亦 CEYEE希亦迷你洗衣机ACE内裤洗袜机小型全自动迷",
+        "brand": "某亦",
+        "brandRaw": "希亦",
+        "category": "appliance",
+        "platform": "某东",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "洗不干净！甚至异味都洗不干净！客服直接告诉你需要先手洗在机洗 那我买它的意义是什么？这款还不带消毒功能",
+        "evidenceLevel": "L3",
+        "price": "719.78",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792457906275_0_g4hpfw.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792457906277_1_5csy8w.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792457906279_2_021fgz.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_6e991660cb4b8857",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_6e991660cb4b8857"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792457910347,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792459142047,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

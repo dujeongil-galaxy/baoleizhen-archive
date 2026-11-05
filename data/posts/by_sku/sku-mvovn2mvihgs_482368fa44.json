@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "e033fa346adef3630018584a512205c8",
+        "id": "e033fa346adef3630018584a512205c8",
+        "skuId": "sku-mvovn2mvihgs",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：槟小康 \\康手剥嫩笋78克脆...",
+        "brand": "槟某康",
+        "brandRaw": "槟小康",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "西北疆域食某仓",
+        "anchorRaw": "西北疆域食品仓",
+        "content": "难吃，有异物\n主播/店铺：西北疆域食某仓",
+        "evidenceLevel": "L2",
+        "price": "19.90",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792996191310_0_xpfex7.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792996191312_1_qhms96.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_005bf5398157b386",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792996195253,
+        "date": "2026-10-26",
+        "status": "approved",
+        "auditTime": 1793006736650,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

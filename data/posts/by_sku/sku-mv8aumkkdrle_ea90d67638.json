@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446acfa7d9014950c126aaea9a",
+        "id": "572942446acfa7d9014950c126aaea9a",
+        "skuId": "sku-mv8aumkkdrle",
+        "type": "review",
+        "score": 4,
+        "tag": "品质差",
+        "title": "实测：米家 桌面风扇（1）",
+        "brand": "某家",
+        "brandRaw": "米家",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "其他",
+        "anchor": "百亿某贴",
+        "anchorRaw": "百亿补贴",
+        "content": "大问题没有 打游戏吃饭散热很好 续航一般我都是插电使用 有概率风扇转头很松 我第一个就很松 阻力就一点 我已经买三个了 已经坏了两个 第一个是摔了一下就坏了电机烧第二个是尾插掉了可以看图 正常插拔充电器 我去酷安看了一下是通病 在保售后也不给修要6折焕新大概是70多 特别批评一下济南售后中心真的差劲通话每次都得等十分钟左右一直都没人接 pdd商家客服也不专业一直在踢皮球让我去找小米售后 质保的意义何在呢 不过拼多多客服很给力 直接就让我退货退款了\n主播/店铺：百亿某贴",
+        "evidenceLevel": "L2",
+        "price": "92",
+        "claimEvidence": "",
+        "realEvidence": "实拍 4 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791993808634_0_s9ewk8.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791993808635_1_7l3tf4.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791993808636_2_35f8ib.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791993808637_3_8nsja7.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791993808642_4_7xvwft.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_df23a7acbbe2a482",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_df23a7acbbe2a482"
+        ],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_df23a7acbbe2a482",
+          "uid_74e083a55f68eff6"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791993816965,
+        "date": "2026-10-15",
+        "status": "approved",
+        "auditTime": 1791994979582,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

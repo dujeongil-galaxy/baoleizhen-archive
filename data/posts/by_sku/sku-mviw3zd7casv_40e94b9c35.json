@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad96d4b01b26cfc57c5137f",
+        "id": "572942446ad96d4b01b26cfc57c5137f",
+        "skuId": "sku-mviw3zd7casv",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：小米 米家空调伴侣2",
+        "brand": "某米",
+        "brandRaw": "小米",
+        "category": "appliance",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "某米",
+        "anchorRaw": "小米",
+        "content": "夯爆了好吧一件变成智能家居\n主播/店铺：某米",
+        "evidenceLevel": "L2",
+        "price": "61.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792634181004_0_569edn.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792634181008_1_bwads1.png"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792634187071,
+        "date": "2026-10-22",
+        "status": "approved",
+        "auditTime": 1792640830932,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

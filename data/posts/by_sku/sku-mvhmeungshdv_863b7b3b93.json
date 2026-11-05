@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad84177017e664253f11dc7",
+        "id": "025756256ad84177017e664253f11dc7",
+        "skuId": "sku-mvhmeungshdv",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：鸭子飞了 龙岩泡鸭爪【清香味】5包/26.9g(镇店鸭爪)",
+        "brand": "鸭子某了",
+        "brandRaw": "鸭子飞了",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "超级好吃，但是有点辣，不太能吃辣的人要观望一下",
+        "evidenceLevel": "L2",
+        "price": "9.80",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 2 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792557427267_0_a4rvpk.png"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792557427271_1_s1c7oe.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792557427272_2_c0sm3v.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792557427274_3_0lfd51.png"
+          }
+        ],
+        "author": "幕天",
+        "authorUid": "uid_fc72c9900bafb1c2",
+        "creditScore": 6,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792557431753,
+        "date": "2026-10-21",
+        "status": "approved",
+        "auditTime": 1792563921681,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

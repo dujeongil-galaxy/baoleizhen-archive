@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad60dea0141dbdb6ee67055",
+        "id": "3f1b36026ad60dea0141dbdb6ee67055",
+        "skuId": "sku-mvf8inbohdid",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：半至 半至BAN S耳夹式蓝牙6.0无线耳机开放无感佩戴长续航运动跑步",
+        "brand": "某至",
+        "brandRaw": "半至",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "半至旗某店",
+        "anchorRaw": "半至旗舰店",
+        "content": "耳机声音大，音质也很好，不漏音。性价比很高。机械按键不用担心误触问题(¯▽¯)👍。\n主播/店铺：半至旗某店",
+        "evidenceLevel": "L2",
+        "price": "69",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792413153480_0_bbs2ck.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792413153481_1_t3t4oi.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792413153482_2_58o9xj.jpg"
+          }
+        ],
+        "author": "栖禾",
+        "authorUid": "uid_e0a1c7efccb01d08",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792413162048,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792413173601,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792412848742_b4xhfz.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

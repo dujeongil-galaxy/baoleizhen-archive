@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad613e9014268ae272f7f2e",
+        "id": "3f1b36026ad613e9014268ae272f7f2e",
+        "skuId": "sku-mvf9fkbit52m",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：笑容加 电动牙刷U2S",
+        "brand": "笑某加",
+        "brandRaw": "笑容加",
+        "category": "appliance",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "笑某加",
+        "anchorRaw": "笑容加",
+        "content": "用了半年开始不显示电量、按键不灵敏(经常刷着刷着切换模式)保修期刚过按键就失灵了，只有开机键是好的\n主播/店铺：笑某加",
+        "evidenceLevel": "L2",
+        "price": "189",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792414694723_0_a1wvve.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792414694725_1_ytuezn.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_4c16f57224aa602c",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_1497a47e2c356e0c"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792414697814,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792415835777,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

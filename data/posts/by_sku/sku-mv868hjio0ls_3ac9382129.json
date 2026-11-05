@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446acf89910147adf314ee38c5",
+        "id": "572942446acf89910147adf314ee38c5",
+        "skuId": "sku-mv868hjio0ls",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：狼蛛 win60he （灰木磁轴键盘）（650g）",
+        "brand": "狼蛛某盘",
+        "brandRaw": "狼蛛键盘",
+        "category": "digital",
+        "platform": "某音",
+        "channel": "旗舰店",
+        "anchor": "狼蛛电脑旗某店",
+        "anchorRaw": "狼蛛电脑旗舰店",
+        "content": "我买贵了 现在59可以入手 他对得起他的价格 记得换掉原装连接线否则容易断触 适合两种人 第一次接触磁轴键盘预算不够的 或者是需要克制化的除了定位版都要换的 59它真的没毛病 还有飘带 晒单还送定制键帽\n主播/店铺：狼蛛电脑旗某店",
+        "evidenceLevel": "L2",
+        "price": "65",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791986059392_0_cd0owo.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791986059394_1_34gldz.jpg"
+          }
+        ],
+        "author": "🏠",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 6,
+        "agreeUserIds": [
+          "uid_ba9e2e8cac5ef1d5",
+          "uid_9c7c6a86b1bfdfa7",
+          "uid_4f9cc0ee2e493776",
+          "uid_3e47ab0af575d666",
+          "uid_841f24f09e9fd864",
+          "uid_0124a28234f8ea00"
+        ],
+        "doubtCount": 4,
+        "doubtUserIds": [
+          "uid_a1f80203374a8de6",
+          "uid_e410b64470a1992c",
+          "uid_8227130a5e3e7502",
+          "uid_a4ef140ce89335c8"
+        ],
+        "createTime": 1791986065555,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791986692123,
+        "arbitration": "pending",
+        "arbitrationAt": 1792949104044,
+        "arbitrationFake": 0,
+        "arbitrationReal": 1,
+        "arbitrationUnknown": 0,
+        "arbitrationVotes": [
+          {
+            "uid": "uid_29ce39c6be5f5531",
+            "vote": "real",
+            "credit": 191,
+            "date": 1793373666181
+          }
+        ],
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 60,
+        "pendingVerify": true,
+        "arbitrationResult": "",
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad24cc50115fb0b4d1e6ac1",
+        "id": "025756256ad24cc50115fb0b4d1e6ac1",
+        "skuId": "sku-mvb60vyvznuf",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：小米 米家加湿器2家用大容量静音卧室空调孕妇婴儿大雾量净化空气",
+        "brand": "某米",
+        "brandRaw": "小米",
+        "category": "home",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "小米官方旗某店",
+        "anchorRaw": "小米官方旗舰店",
+        "content": "用了两年了 很好用 记得加纯净水要不然水雾浓很多\n主播/店铺：小米官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "89",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792167101672_0_h8thwz.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792167101675_1_8z017g.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792167109520,
+        "date": "2026-10-17",
+        "status": "approved",
+        "auditTime": 1792169058872,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

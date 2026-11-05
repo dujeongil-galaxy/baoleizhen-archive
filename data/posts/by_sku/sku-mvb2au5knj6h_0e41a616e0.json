@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad234570113ace84b9b2f68",
+        "id": "025756256ad234570113ace84b9b2f68",
+        "skuId": "sku-mvb2au5knj6h",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：康师傅 辣芙芙芝士拉面火鸡面",
+        "brand": "康某傅",
+        "brandRaw": "康师傅",
+        "category": "food",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "康某傅",
+        "anchorRaw": "康师傅",
+        "content": "喜欢芝士味的速食可以买来试试，建议煮 这不是方便面哈 口感偏软\n主播/店铺：康某傅",
+        "evidenceLevel": "L2",
+        "price": "41.97",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160852220_0_26ncfn.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160852221_1_edpnzv.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_80b03246847f5033",
+        "creditScore": 25,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_80b03246847f5033"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792160855250,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792162070061,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792161482695_0m7l76.jpeg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

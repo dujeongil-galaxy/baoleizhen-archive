@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad21cf600589b4d75cdbb2c",
+        "id": "ee9c9df06ad21cf600589b4d75cdbb2c",
+        "skuId": "sku-mvayqkbq2ela",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：卡斐乐 卡斐乐冰透60W数据线适用苹果15-17系列",
+        "brand": "卡某乐",
+        "brandRaw": "卡斐乐",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "启寰数码配件专某店",
+        "anchorRaw": "启寰数码配件专营店",
+        "content": "充电可以 不会冲半年就坏 但是无法用这个数据线连接爱思\n主播/店铺：启寰数码配件专某店",
+        "evidenceLevel": "L2",
+        "price": "15.51",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792154863990_0_4m9a32.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792154863996_1_sek7ok.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792154870544,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792156111010,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

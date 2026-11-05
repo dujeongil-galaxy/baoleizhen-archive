@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026acf875e008e19977de21eee",
+        "id": "3f1b36026acf875e008e19977de21eee",
+        "skuId": "sku-mv85wf7w27z7",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：迈从 ace68gt（粉泰山磁轴键盘）（1440g）",
+        "brand": "某从",
+        "brandRaw": "迈从",
+        "category": "digital",
+        "platform": "某音",
+        "channel": "旗舰店",
+        "anchor": "迈从官方旗某店",
+        "anchorRaw": "迈从官方旗舰店",
+        "content": "既然你能找到这个小程序 我也不需要和你多讲别的参数了 首先 很沉 铝合金三斤的重量比你实际想象中的还要沉 约等于两个塑料60配列键盘 其次灯光是上灯位 轴体比较大而且不怎么透光 \n\n它很沉 很闷 很稳 键帽需要改 这既是它的的优点也是缺点\n注意点 空格键 删除键 回车键 右shift键因为键帽空间原因导致声音偏脆偏空 \n只说客观事实 愿以上能对你有用\n主播/店铺：迈从官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "598.86",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791985495338_0_a0dfrq.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791985495343_1_edmlbg.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791985495345_2_lduud1.jpg"
+          }
+        ],
+        "author": "🏠",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_9f1161ecadf8eed6"
+        ],
+        "createTime": 1791985502659,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791986704240,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

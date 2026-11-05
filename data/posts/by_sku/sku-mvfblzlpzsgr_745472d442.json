@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad622340084f5e90f711c45",
+        "id": "ee9c9df06ad622340084f5e90f711c45",
+        "skuId": "sku-mvfblzlpzsgr",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：曹氏鸭脖 微辣少许汤(巴适的板)",
+        "brand": "曹氏某脖",
+        "brandRaw": "曹氏鸭脖",
+        "category": "food",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "美团某卖",
+        "anchorRaw": "美团外卖",
+        "content": "一股科技与狠活，千万别吃。窝尿都是一股科技味\n主播/店铺：美团某卖",
+        "evidenceLevel": "L3",
+        "price": "16.6",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418350529_0_7cvjol.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418350531_1_7jl4ol.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418350531_2_1bsnzi.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_090899c5c3965c8c",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_bb3855c0ac820675"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792418356785,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792418803434,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792418714576_wykywj.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

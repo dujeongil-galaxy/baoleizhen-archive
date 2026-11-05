@@ -1,0 +1,87 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad87e56017a0d7372d9bf3f",
+        "id": "3f1b36026ad87e56017a0d7372d9bf3f",
+        "skuId": "sku-mvhvotx3qy8z",
+        "type": "review",
+        "score": 2,
+        "tag": "品质差",
+        "title": "实测：至影 手机磁吸补光灯",
+        "brand": "某影",
+        "brandRaw": "至影",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "轻影数某店",
+        "anchorRaw": "轻影数码店",
+        "content": "电池容量严重虚报，介绍说有1小时，实际十到二十分钟就没电了\n主播/店铺：轻影数某店",
+        "evidenceLevel": "L2",
+        "price": "21.5",
+        "claimEvidence": "",
+        "realEvidence": "实拍 3 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792573004159_0_z89xy9.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792573004160_1_xw1tib.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792573004161_2_4gm298.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792573004161_3_jlt7cn.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_b33b33a1a9813695",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_b33b33a1a9813695"
+        ],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_b33b33a1a9813695"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792573014018,
+        "date": "2026-10-21",
+        "status": "approved",
+        "auditTime": 1792575202199,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

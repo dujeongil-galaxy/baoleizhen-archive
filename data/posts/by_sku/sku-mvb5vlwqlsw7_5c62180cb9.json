@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad24bcf005ac3846f677b8e",
+        "id": "ee9c9df06ad24bcf005ac3846f677b8e",
+        "skuId": "sku-mvb5vlwqlsw7",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：汪玉霞 蒜鸟湖北武汉特产樱花饼传统绿豆糕正宗中式糕点伴手礼",
+        "brand": "汪某霞",
+        "brandRaw": "汪玉霞",
+        "category": "food",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "汪玉霞旗某店",
+        "anchorRaw": "汪玉霞旗舰店",
+        "content": "他家是沙一点的口感 \n这个我个人感觉很很很很好吃\n实物图是淘宝找的\n因为每次买完到了十分钟就被抢完了\n我真的建议各位尝一尝\n有点小贵哈\n主播/店铺：汪玉霞旗某店",
+        "evidenceLevel": "L2",
+        "price": "21.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792166848858_0_zxhjqx.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792166848861_1_ri5keq.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792166863183,
+        "date": "2026-10-17",
+        "status": "approved",
+        "auditTime": 1792167013809,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

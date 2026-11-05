@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad21f7f0163f86b62a24b35",
+        "id": "572942446ad21f7f0163f86b62a24b35",
+        "skuId": "sku-mvaz4hbesy8p",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：黑皇 鼠标防滑贴适用于罗技GPW3/2代",
+        "brand": "某皇",
+        "brandRaw": "黑皇",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "很贵 所以给4星 \n但是很好用 42是两个的价格\n真的很好用 不粘手的好用\n但是粘灰很严重 买黑色 不要买其他颜色 \n无论你的鼠标是粉色还是白的还是蓝的",
+        "evidenceLevel": "L2",
+        "price": "42.16",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792155512493_0_4qprnr.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792155512497_1_bif22n.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792155519861,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792156097707,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

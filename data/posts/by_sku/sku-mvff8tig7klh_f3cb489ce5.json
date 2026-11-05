@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad63a0c018c4f961c9d62f0",
+        "id": "572942446ad63a0c018c4f961c9d62f0",
+        "skuId": "sku-mvff8tig7klh",
+        "type": "review",
+        "score": 4,
+        "tag": "",
+        "title": "实测：长城 长城猎金FIRE系列F12 1200W全模组电源",
+        "brand": "某城",
+        "brandRaw": "长城",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "还可以用料不错，预算少选f系列没错",
+        "evidenceLevel": "L2",
+        "price": "470.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792424454151_0_b9siea.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792424454156_1_p3acf4.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_bfcc9330cd8efca9",
+        "creditScore": 20,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_bfcc9330cd8efca9"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792424460812,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792424944393,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

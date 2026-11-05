@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ace57190139c93118aee455",
+        "id": "572942446ace57190139c93118aee455",
+        "skuId": "sku-mv6viwdkflly",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：无名小卒 锅巴（200g）",
+        "brand": "无名某卒",
+        "brandRaw": "无名小卒",
+        "category": "food",
+        "platform": "某多",
+        "channel": "旗舰店",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "非常好吃，很入味",
+        "evidenceLevel": "L2",
+        "price": "28",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791907601368_0_iiizjt.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791907601370_1_3ndqdu.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_9ae2857299fa1a5c",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791907609394,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791908268878,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

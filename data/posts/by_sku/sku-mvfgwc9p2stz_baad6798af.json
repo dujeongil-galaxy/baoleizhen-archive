@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad644e5018ced247e089dd3",
+        "id": "572942446ad644e5018ced247e089dd3",
+        "skuId": "sku-mvfgwc9p2stz",
+        "type": "review",
+        "score": 5,
+        "tag": "划算",
+        "title": "实测：网皓文化 工厂食品级黄牛纸包装袋特厚自封自立袋食品干果茶叶包装袋批发",
+        "brand": "网皓某化",
+        "brandRaw": "网皓文化",
+        "category": "stationery",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "网皓文化用品专某店",
+        "anchorRaw": "网皓文化用品专营店",
+        "content": "两块三五十个，然后他这个还挺厚实，并且面是光面的\n主播/店铺：网皓文化用品专某店",
+        "evidenceLevel": "L2",
+        "price": "2.3",
+        "claimEvidence": "",
+        "realEvidence": "实拍 3 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792427234174_0_0uyt3e.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792427234175_1_z3ps29.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792427234176_2_0g89sn.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792427234176_3_pgfxeb.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_947b0ed725dc43cd",
+        "creditScore": 11,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792427237828,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792428124815,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

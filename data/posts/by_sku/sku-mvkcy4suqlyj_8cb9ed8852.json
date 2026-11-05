@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "fb505a7c6adac7f5000069e01ab3253a",
+        "id": "fb505a7c6adac7f5000069e01ab3253a",
+        "skuId": "sku-mvkcy4suqlyj",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：高丝魅宝 小粉瓶替换装2.0新版本(袋装)",
+        "brand": "高丝某宝",
+        "brandRaw": "高丝魅宝",
+        "category": "beauty",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "高丝某宝",
+        "anchorRaw": "高丝魅宝",
+        "content": "我当时是同学推荐买的这个 别的卸妆油都很涩 感觉不舒服 但是这个完全不是 特别好用 是油感的 但是特别好卸 有一个缺点就是特别贵 之前我看过这个220ml 33块钱 太贵了我觉得 但是这个是百亿补贴我觉得还挺便宜的 但是好像涨价了我用我对象的号再买就是19.3 这个是替换装 可以准备一个瓶子啥的 特别特别好用！\n主播/店铺：高丝某宝",
+        "evidenceLevel": "L3",
+        "price": "16.8",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792722931537_0_pfnobs.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792722931540_1_ztuzav.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792722931541_2_0021pb.jpg"
+          }
+        ],
+        "author": "鹤鹤.",
+        "authorUid": "uid_177d587907df0832",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_237da996a9117b09"
+        ],
+        "createTime": 1792722933841,
+        "date": "2026-10-23",
+        "status": "approved",
+        "auditTime": 1792732022549,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792414671288_niehed.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

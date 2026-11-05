@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256acfbe7b00dfdf2f120e58a1",
+        "id": "025756256acfbe7b00dfdf2f120e58a1",
+        "skuId": "sku-mv8eatp3khvy",
+        "type": "review",
+        "score": 5,
+        "tag": "",
+        "title": "实测：周一村 陕西徐香猕猴桃绿心大果当季",
+        "brand": "周某村",
+        "brandRaw": "周一村",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "非常甜，比徐香猕猴桃甜多了，而且每一个都够称，就是有一个坏果，也很快就赔付了，原价的话算下来一块钱一个，倒也不贵，和路边摊差不多价格，但是品质好很多",
+        "evidenceLevel": "L2",
+        "price": "7.49",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 2 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791999606497_0_6bxcuy.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791999606499_1_exp0eb.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791999606499_2_4h2ngg.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_7dcaac52a4c8ba73",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791999611540,
+        "date": "2026-10-15",
+        "status": "approved",
+        "auditTime": 1791999992421,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

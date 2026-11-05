@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad62eaa015e17de33d74c73",
+        "id": "025756256ad62eaa015e17de33d74c73",
+        "skuId": "sku-mvfdicx32b2w",
+        "type": "review",
+        "score": 5,
+        "tag": "划算",
+        "title": "实测：戴你飞 风干鸭翅根椒盐卤味熟食解馋网红即食小腿休闲追剧鸭肉零食小吃",
+        "brand": "戴某飞",
+        "brandRaw": "戴你飞",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "13块，三包鸭翅根，平均每包6-8个鸭翅根，个头略小，可是性价比已经还在这里了，口感特别有嚼劲，像风干牛肉般的口感，而且盐度较低，很好的保留了肉的香味，原味和香辣味的都很好，食品的日期也很新鲜，买了三次每次都是刚生产出来几天的，平时打云顶之弈就爱吃点东西，让兄弟们吃上便宜好吃的好货😋",
+        "evidenceLevel": "L2",
+        "price": "13.27",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421539889_0_r77rw0.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421539890_1_rwt0vv.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_632d086be6af958b",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_974d97223302bea8"
+        ],
+        "createTime": 1792421546618,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792421949833,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

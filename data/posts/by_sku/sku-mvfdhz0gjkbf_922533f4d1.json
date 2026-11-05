@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad62e980085999e25f5880c",
+        "id": "ee9c9df06ad62e980085999e25f5880c",
+        "skuId": "sku-mvfdhz0gjkbf",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：EMWM男士氨基酸洗发水控油蓬松去屑止痒持久留香无硅油洗头水 洗发水控油蓬松去屑止痒持久留...",
+        "brand": "EMWM男士氨基酸洗发水控油蓬松去屑止痒持久留香无硅油洗头水",
+        "brandRaw": "EMWM男士氨基酸洗发水控油蓬松去屑止痒持久留香无硅油洗头水",
+        "category": "beauty",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "有高刺激性成分 慎用",
+        "evidenceLevel": "L2",
+        "price": "55.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421521688_0_rd7df7.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421521694_1_so8mvf.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421521698_2_2y7o1o.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_59dd0bc5f4d08470",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792421528620,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792421952032,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

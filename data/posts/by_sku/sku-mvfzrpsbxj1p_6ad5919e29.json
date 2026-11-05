@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad6c0b60089cb5104bff775",
+        "id": "ee9c9df06ad6c0b60089cb5104bff775",
+        "skuId": "sku-mvfzrpsbxj1p",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：1晚山顶loft悬崖独栋木屋别墅+漂流/溯溪玩水/造浪乐园",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "sports",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "访云山CAMP·日出云海悬崖落日山顶度假营地民宿",
+        "anchorRaw": "访云山CAMP·日出云海悬崖落日山顶度假营地民宿",
+        "content": "实名避雷访云山camp！被抖音骗来的纯纯大冤种\n\n半夜睡觉，不知道什么虫子飞我脸上，然后在我枕头上怎么吹都不走，商家来了拿张卫生纸在我床上把虫子按死了让我接着睡😅\n\n1300一晚的价格，体验差到离谱，全方面踩雷，给大家避坑了\n\n宣传全是水分，没一句靠谱的\n\n• 抖音上吹得像模像样的营地，实际整个能活动的区域还没半个足球场大，就巴掌点地方，逛两步就到头了。\n\n• 说赠送崤山景区门票，结果营地本身就盖在崤山景区里，合着拿本来就包含的东西当福利送？关键这景区啥游玩项目都没有，就是纯荒山，去了都不知道干嘛。\n\n• 营地死命推荐的琴溪香谷，路远不说，景区本身巨无聊。状元洞里又脏又窄，转个身都难，爬完裤子上全是泥。下山还骗你坐索道，说能直达山下，结果全程不到200米收60块，坐完照样得自己爬下山。\n\n• 宣传的烟花活动，以为有多好看，实际就是每人发一根手摇小呲花，一点氛围感都没有，拍照完全出不了片。\n\n房间贵得离谱，住得遭老罪\n\n• 1300一晚啊朋友们，这个预算住五星酒店不香吗？在这就住个刷了漆的简易木屋，推门一股油漆味直冲脑门。\n\n• 房间里又潮又有股怪味，飞虫、爬虫到处都是，怕虫的真的慎入\n主播/店铺：访云山CAMP·日出云海悬崖落日山顶度假营地民宿",
+        "evidenceLevel": "L3",
+        "price": "1074.98",
+        "claimEvidence": "已上传宣称证据 4 项",
+        "realEvidence": "实拍 4 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922930_0_j8issb.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922933_1_5z28g6.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922934_2_0w2d5t.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922935_3_8364br.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922935_4_gb8gae.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922936_5_zn8lz5.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922936_6_4n2x6f.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922937_7_0hjyvz.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458922938_8_61e870.png"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_7aa7dc2f38cbef39",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792458934748,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792459132230,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

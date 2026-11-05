@@ -1,0 +1,14 @@
+{
+  "source": "微信小程序「网购避雷真」公开云函数 HTTP 访问服务",
+  "endpoint": "https://bilei-d1g97vsxp79326658.service.tcloudbase.com/post",
+  "appid": "wx5bd3aa9f4674cca5",
+  "cloud_env": "bilei-d1g97vsxp79326658",
+  "fetched_at": "2026-11-05T21:42:19+0800",
+  "sku_count": 664,
+  "sku_with_posts_files": 664,
+  "post_count": 195,
+  "new_requests": 664,
+  "errors": [],
+  "privacy": "openid/uid 类字段已做一致性哈希脱敏（uid_ 前缀），其余字段保持原样",
+  "duration_seconds": 106.1
+}

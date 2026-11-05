@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad60c4f0189a8ff1ea1f276",
+        "id": "572942446ad60c4f0189a8ff1ea1f276",
+        "skuId": "sku-mvf89u3uczkz",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：无印良品旗舰店 纯棉床上四件套全棉",
+        "brand": "无印良品旗某店",
+        "brandRaw": "无印良品旗舰店",
+        "category": "home",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "盗版店铺不是无印良品，而且我用了几天全身痒挠的身上全是红点皮都破了",
+        "evidenceLevel": "L2",
+        "price": "123",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792412745438_0_hpvre5.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792412745442_1_8lxqwr.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_81acc8f020fe1597",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_173e56c4e9a70e3e"
+        ],
+        "agreeCount": 3,
+        "agreeUserIds": [
+          "uid_d48d31ef90153b66",
+          "uid_4ed0b83cd5e3df4b",
+          "uid_a5d08fcbd94ebc77"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792412750953,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792413138822,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad0d3d400b2644e435ffd42",
+        "id": "3f1b36026ad0d3d400b2644e435ffd42",
+        "skuId": "sku-mv9kkmf9vqk8",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：集和 特厚不锈钢饭盒加厚泡面碗可加热带盖宿舍学生饭盒食堂打饭沥水碗",
+        "brand": "某和",
+        "brandRaw": "集和",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "集和家某店",
+        "anchorRaw": "集和家居店",
+        "content": "不锈钢生锈😂😂😂这玩意儿用了对人体有害。下面这张图是我用了第二次之后就变成这样了那地方不是油 是锈还有最底部还掉漆呢避雷避雷！！！\n主播/店铺：集和家某店",
+        "evidenceLevel": "L2",
+        "price": "8.8",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792070608213_0_qo6s01.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792070608214_1_7vpmpp.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_bb0e5b382baec759",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_8227130a5e3e7502"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792070612528,
+        "date": "2026-10-15",
+        "status": "approved",
+        "auditTime": 1792075736285,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad0d46400f45cf6575fb689",
+        "id": "025756256ad0d46400f45cf6575fb689",
+        "skuId": "sku-mv9knpaq8yi1",
+        "type": "review",
+        "score": 4,
+        "tag": "划算",
+        "title": "实测：NICEHCK NiceHCK原道酱正品原道耳机二代升级版有线hifi游戏粉色平头耳塞",
+        "brand": "NICEHCK",
+        "brandRaw": "NICEHCK",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "低音控制基本没有，整体声音偏闷，没有降噪，但是对于这个价格来说也就这样了，只适合用来听个响",
+        "evidenceLevel": "L2",
+        "price": "9.3",
+        "claimEvidence": "",
+        "realEvidence": "实拍 5 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792070750242_0_q8e4hs.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792070750244_1_k7b8f1.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792070750244_2_seov1g.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792070750245_3_c3hzio.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792070750245_4_ql7fwu.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792070750246_5_cp5tlu.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_c552187aa265362d",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792070756234,
+        "date": "2026-10-15",
+        "status": "approved",
+        "auditTime": 1792075732004,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

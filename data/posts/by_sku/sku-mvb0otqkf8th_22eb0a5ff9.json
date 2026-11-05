@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad229c400da399b023730cf",
+        "id": "3f1b36026ad229c400da399b023730cf",
+        "skuId": "sku-mvb0otqkf8th",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：澜轴 无氧铜客制化键盘航插线一拖二(白色)",
+        "brand": "某轴",
+        "brandRaw": "澜轴",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "他家轴一般\n但是航插线是真的nb\n虽然是代工的 \n虽然不能同时给键盘和手机供电\n但是价格39还有rgb灯效（灯光纯纯随机还关不掉）\n夯爆了\n粉色黑色白色三种颜色",
+        "evidenceLevel": "L2",
+        "price": "39.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792158143969_0_zqqzdq.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792158143973_1_rn2zcd.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792158148690,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792158318024,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

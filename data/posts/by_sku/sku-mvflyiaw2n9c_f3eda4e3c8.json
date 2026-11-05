@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad66619018daa4c5aba5541",
+        "id": "572942446ad66619018daa4c5aba5541",
+        "skuId": "sku-mvflyiaw2n9c",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：拼多多 拼多多月卡会员超级神券包",
+        "brand": "拼某多",
+        "brandRaw": "拼多多",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "买的券包，189抵值240，是10多张无门槛的券，满20减20那种。非常的坑～\n首先这个券不能和很多平台送的免费券叠加，这是最坑的点，我用其他券减10元，就比这个减20的券合适，因为这个券我花钱买的有成本在。\n其次是并不是所有商品都可以用，很多都是高价商品才能用。\n总结起来就是非常非常坑，一定一定不要买这个券包\n\n再就是这个券只有几个月的有效期，买了以后就不得不多买很多没必要的商品",
+        "evidenceLevel": "L2",
+        "price": "189",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792435734076_0_pyrns3.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792435734081_1_8k6x62.png"
+          }
+        ],
+        "author": "金鱼",
+        "authorUid": "uid_424881e10d9ad0b6",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 2,
+        "helpfulUserIds": [
+          "uid_424881e10d9ad0b6",
+          "uid_9d5e83c67569dbf1"
+        ],
+        "agreeCount": 3,
+        "agreeUserIds": [
+          "uid_424881e10d9ad0b6",
+          "uid_9d5e83c67569dbf1",
+          "uid_0124a28234f8ea00"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792435737016,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792455058852,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

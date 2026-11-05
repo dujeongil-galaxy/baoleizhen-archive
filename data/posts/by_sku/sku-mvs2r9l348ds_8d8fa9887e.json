@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "fb505a7c6ae1e6aa003eac37366b2fef",
+        "id": "fb505a7c6ae1e6aa003eac37366b2fef",
+        "skuId": "sku-mvs2r9l348ds",
+        "type": "review",
+        "score": 5,
+        "tag": "",
+        "title": "实测：棉致 棉致扎染美式休闲裤男秋季新款宽松阔腿",
+        "brand": "某致",
+        "brandRaw": "棉致",
+        "category": "clothing",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "非常好的裤子，质感很不错，健身人大粗腿非常适合",
+        "evidenceLevel": "L2",
+        "price": "65.06",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793189538409_0_08v2s6.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793189538412_1_6vrz3q.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_83be28da1731ae5f",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793189546716,
+        "date": "2026-10-28",
+        "status": "approved",
+        "auditTime": 1793196504253,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

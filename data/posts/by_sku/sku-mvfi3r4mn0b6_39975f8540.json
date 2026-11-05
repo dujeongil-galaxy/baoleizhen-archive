@@ -1,0 +1,88 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad64ccf01601e131ec04b50",
+        "id": "025756256ad64ccf01601e131ec04b50",
+        "skuId": "sku-mvfi3r4mn0b6",
+        "type": "review",
+        "score": 3,
+        "tag": "品质差",
+        "title": "实测：丝米达 重庆大盒自热小火锅透明自热蔬菜火锅童好火锅嗨懒人必备速食混合口味锅组合装蔬菜火锅3盒",
+        "brand": "丝某达",
+        "brandRaw": "丝米达",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "1.蔬菜特别少，粉条还有塑料味不好吃量特别少\n2.底料还可以，不过吃完之后有油已经变成固体粘在嘴巴上",
+        "evidenceLevel": "L3",
+        "price": "13.9",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792429254233_0_y92v4b.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792429254254_1_7mz8aq.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792429254258_2_0kmcni.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792429254261_3_9q0q8w.png"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_a000631ef0ff43a5",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_a000631ef0ff43a5"
+        ],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_a000631ef0ff43a5",
+          "uid_c5f50f8a1a478234"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792429263311,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792429658079,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

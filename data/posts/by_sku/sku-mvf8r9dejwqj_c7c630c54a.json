@@ -1,0 +1,174 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad6c1970089d7956492f2af",
+        "id": "ee9c9df06ad6c1970089d7956492f2af",
+        "skuId": "sku-mvf8r9dejwqj",
+        "type": "review",
+        "score": 3,
+        "tag": "一般",
+        "title": "实测：迈从 G87V2白折影快金轴【新品开售",
+        "brand": "某从",
+        "brandRaw": "迈从",
+        "category": "digital",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "迈从官方旗某店",
+        "anchorRaw": "迈从官方旗舰店",
+        "content": "可能是通病吧，第一把我笔记本开合以后音量滚轮就失灵，我退换货以后第二把还是同样的问题，更新了固件也没用，两把都是，服务还行，产品质量有待提升吧\n主播/店铺：迈从官方旗某店",
+        "evidenceLevel": "L3",
+        "price": "254.65",
+        "claimEvidence": "已上传宣称证据 4 项",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792459152964_0_uqhoyf.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792459152967_1_oi0rei.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792459152968_2_1xalzn.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792459152968_3_8f822z.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792459152968_4_gdtv82.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792459152969_5_x7lali.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792459152969_6_eaexuk.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_6974cabba0f1baba",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_6974cabba0f1baba"
+        ],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_6974cabba0f1baba"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792459159342,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792459192383,
+        "updates": [],
+        "isMine": false,
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      },
+      {
+        "_id": "3f1b36026ad60f7b01420015713a41f4",
+        "id": "3f1b36026ad60f7b01420015713a41f4",
+        "skuId": "sku-mvf8r9dejwqj",
+        "type": "review",
+        "score": 1,
+        "tag": "一般",
+        "title": "实测：MCHOSE迈从 三角洲行动烽火职业联赛指定键盘 G87V2快金轴V3 金轴机械键盘客制化无线三模蓝牙电竞",
+        "brand": "MCHOSE迈从",
+        "brandRaw": "MCHOSE迈从",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "迈从官方旗某店",
+        "anchorRaw": "迈从官方旗舰店",
+        "content": "品控拉完了，色差有问题，而且按z的对应的是y，y对应的是z，完全反过来，拉完了\n主播/店铺：迈从官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "238.65",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792413558032_0_avd2mh.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792413558036_1_03kvtw.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_2b032fa83c455542",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_6974cabba0f1baba",
+          "uid_2b032fa83c455542"
+        ],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_3842c67978823982"
+        ],
+        "createTime": 1792413563870,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792413941123,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 67,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

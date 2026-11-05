@@ -1,0 +1,174 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad626c3008536172f8269b7",
+        "id": "ee9c9df06ad626c3008536172f8269b7",
+        "skuId": "sku-mvb3lor67y17",
+        "type": "review",
+        "score": 4,
+        "tag": "划算",
+        "title": "实测：好欢螺 好欢螺螺蛳粉广西柳州特产经典原味加量装整箱",
+        "brand": "好某螺",
+        "brandRaw": "好欢螺",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "螺蛳粉是好吃的在线上网购的品牌好欢螺的螺蛳粉是好吃的，在线上网购的品牌当中。他的那个酸笋就是酸的有的牌子做的那个螺蛳粉。他的那个酸笋就是酸的有的牌子做的那个螺蛳粉都是甜的。他的那个酸笋就是酸的，有的牌子做的那个螺蛳粉都是甜的，不咋好吃。但是呢，好欢螺的加辣加臭，他那个汤料包好像出现了点味道的变化，吃着没有之前好吃了他那个原版的紫色袋子的还。但是呢，好欢螺的加辣加臭，他那个汤料包好像出现了点味道的变化，吃着没有之前好吃了。他那个原版的紫色袋子的还是很好吃的",
+        "evidenceLevel": "L2",
+        "price": "83.88",
+        "claimEvidence": "",
+        "realEvidence": "实拍 6 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419516682_0_2ove3q.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419516684_1_bblvfh.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419516685_2_s3ky9t.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419516685_3_saci4g.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419516686_4_9pbqcz.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419516687_5_4l5nr5.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792419516687_6_vye0v6.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_74c41d419e452e5d",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_80b03246847f5033"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792419523516,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792420098303,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      },
+      {
+        "_id": "3f1b36026ad23ce100dcd9aa1c414e98",
+        "id": "3f1b36026ad23ce100dcd9aa1c414e98",
+        "skuId": "sku-mvb3lor67y17",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：臭宝，好欢螺，李子柒 宗柳州螺蛳粉方便速食酸辣米...",
+        "brand": "臭宝，好欢螺，李子柒",
+        "brandRaw": "臭宝，好欢螺，李子柒",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "爱吃螺蛳粉就看我长图就好了 花红娘娘有兴趣的可以试试味道不踩雷的 （以下都是我薅羊毛的螺蛳粉价格，愿意捣鼓你也行）\n臭宝330g大概7r/包\n李子柒同上\n好欢螺11r/包",
+        "evidenceLevel": "L2",
+        "price": "10",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792163032415_0_u3jkgm.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792163032415_1_py7atq.jpg"
+          }
+        ],
+        "author": "几太ovo",
+        "authorUid": "uid_80b03246847f5033",
+        "creditScore": 25,
+        "merchantResponse": null,
+        "helpfulCount": 3,
+        "helpfulUserIds": [
+          "uid_80b03246847f5033",
+          "uid_4c3a2fd76d6c2cc3",
+          "uid_480d9c4168a0650a"
+        ],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_80b03246847f5033",
+          "uid_548790c42b91dc8f"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792163040979,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792164679927,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792161482695_0m7l76.jpeg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

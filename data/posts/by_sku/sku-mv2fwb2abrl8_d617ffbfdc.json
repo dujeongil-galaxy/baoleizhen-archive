@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446aca3fc80052275f6c5a36a8",
+        "id": "572942446aca3fc80052275f6c5a36a8",
+        "skuId": "sku-mv2fwb2abrl8",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：钢甲侠 钢甲侠适用iqoo15手机壳新款13透明12全包iqooNeo11镜头Neo10Pro/7se保护套iqooZ9turbo防摔气囊z8z6z5z3外壳（1）",
+        "brand": "钢某侠",
+        "brandRaw": "钢甲侠",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "旗舰店",
+        "anchor": "钢甲侠旗某店",
+        "anchorRaw": "钢甲侠旗舰店",
+        "content": "别买，他背后这个环儿，你敢用它来支手机，它就敢一直翘着。而且边缘衔接很差，机身贴合超级辣鸡，动不动就翘边凸起，手感也特别油。\n主播/店铺：钢甲侠旗某店",
+        "evidenceLevel": "L2",
+        "price": "22.8",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639492319_0_29b38t.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639492321_1_fa44or.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791639492321_2_waj5qo.jpg"
+          }
+        ],
+        "author": "我就是想买个手机壳",
+        "authorUid": "uid_58088de7271a61d1",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 5,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666",
+          "uid_30835a21f9439610",
+          "uid_9f1161ecadf8eed6",
+          "uid_c0a8f13b91586a1f",
+          "uid_e2122e6fad0535cb"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791639496382,
+        "date": "2026-10-10",
+        "status": "approved",
+        "auditTime": 1791642168297,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791638681950_3wfp61.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

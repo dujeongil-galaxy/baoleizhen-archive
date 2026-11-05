@@ -1,0 +1,147 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "6fdcb0606ac88eea00ed8af15afacdda",
+        "id": "6fdcb0606ac88eea00ed8af15afacdda",
+        "skuId": "sku-mv0lbosw8ask",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：农夫山泉 东方树叶茉莉花茶（1.5L）",
+        "brand": "农夫某泉",
+        "brandRaw": "农夫山泉",
+        "category": "food",
+        "platform": "某多",
+        "channel": "其他",
+        "anchor": "桃心某品",
+        "anchorRaw": "桃心食品",
+        "content": "跟那种500毫升的喝起来一样，冰镇一下会更好喝，我买的没有包装变形问题\n主播/店铺：桃心某品",
+        "evidenceLevel": "L2",
+        "price": "35",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791528678814_0_vy34gi.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791528678816_1_lf7lj3.jpg"
+          }
+        ],
+        "author": "皮特",
+        "authorUid": "uid_6f21277af1328905",
+        "creditScore": 15,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666"
+        ],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_c1e9883797f289bf"
+        ],
+        "createTime": 1791528681998,
+        "date": "2026-10-09",
+        "status": "approved",
+        "auditTime": 1791528709092,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 50,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791528465006_xva9pz.png",
+        "isJury": false,
+        "isFollowed": false
+      },
+      {
+        "_id": "b36413606ac88aff003f5170792a76e3",
+        "id": "b36413606ac88aff003f5170792a76e3",
+        "skuId": "sku-mv0lbosw8ask",
+        "type": "review",
+        "score": 4,
+        "tag": "划算",
+        "title": "实测：农夫山泉 东方树叶茉莉花茶（1.5L）",
+        "brand": "农夫某泉",
+        "brandRaw": "农夫山泉",
+        "category": "food",
+        "platform": "某多",
+        "channel": "其他",
+        "anchor": "桃心某品",
+        "anchorRaw": "桃心食品",
+        "content": "日期都是新的，就是瓶身因为挤压有点变形，也是喝上高端大水了\n主播/店铺：桃心某品",
+        "evidenceLevel": "L2",
+        "price": "34.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791527671918_0_zgiy4w.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791527671943_1_3nfoje.png"
+          }
+        ],
+        "author": "C'est La Vie",
+        "authorUid": "uid_3e47ab0af575d666",
+        "creditScore": 25,
+        "merchantResponse": null,
+        "helpfulCount": 3,
+        "helpfulUserIds": [
+          "uid_3e47ab0af575d666",
+          "uid_e5d633de06d993aa",
+          "uid_6f21277af1328905"
+        ],
+        "agreeCount": 3,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666",
+          "uid_e5d633de06d993aa",
+          "uid_6f21277af1328905"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791527679784,
+        "date": "2026-10-09",
+        "status": "approved",
+        "auditTime": 1791527695472,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1790071005265_qim2df.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

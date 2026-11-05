@@ -1,0 +1,89 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad60167015acfc067f853d6",
+        "id": "025756256ad60167015acfc067f853d6",
+        "skuId": "sku-mvf6lzu2qpbz",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：TTOUCHME 免蒸护发膜香【洗护组合】533洗发水300ml*1瓶+533发膜300ml*1瓶",
+        "brand": "TTOUCHME",
+        "brandRaw": "TTOUCHME",
+        "category": "beauty",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "p1是我买半个月用三次的重量p2是我新买的重量 它们家支持拧开试用我严重怀疑我这次新买的就是她们退货仓发出来的 我询问客服客服态度就是不太了解 客服自己都不了解产品怎么样还开什么店 不早点倒闭完了",
+        "evidenceLevel": "L2",
+        "price": "51.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 4 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792409951713_0_sb4dlg.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792409951717_1_jnjun2.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792409951719_2_o8r3u1.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792409951720_3_2j292g.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792409951721_4_5ds4st.jpg"
+          }
+        ],
+        "author": "1",
+        "authorUid": "uid_dd1433848978fc0d",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792409959013,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792410788402,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792409664697_r10fmf.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

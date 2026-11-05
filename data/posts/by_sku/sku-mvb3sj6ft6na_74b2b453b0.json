@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad23e200165272361e0be1d",
+        "id": "572942446ad23e200165272361e0be1d",
+        "skuId": "sku-mvb3sj6ft6na",
+        "type": "review",
+        "score": 5,
+        "tag": "划算",
+        "title": "实测：老李五 老李五香鸭腿100g袋装香辣即食卤味熟食下酒菜温州特产",
+        "brand": "老某五",
+        "brandRaw": "老李五",
+        "category": "food",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "怎么说呢 浙江人口味哈 4块钱一个沙县版本的卤鸭腿 性价比很高",
+        "evidenceLevel": "L2",
+        "price": "4",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792163355174_0_jiwmmx.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792163355176_1_wcq3qu.jpg"
+          }
+        ],
+        "author": "几太ovo",
+        "authorUid": "uid_80b03246847f5033",
+        "creditScore": 25,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_80b03246847f5033",
+          "uid_1ffa0192c06467d5"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792163360434,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792164670234,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792161482695_0m7l76.jpeg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

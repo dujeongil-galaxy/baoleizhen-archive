@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026acf668e008a0e5625530095",
+        "id": "3f1b36026acf668e008a0e5625530095",
+        "skuId": "sku-mv80wdj3w4jw",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：老粗布（1）",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "home",
+        "platform": "某多",
+        "channel": "旗舰店",
+        "anchor": "北辰粗布某纺",
+        "anchorRaw": "北辰粗布家纺",
+        "content": "用了两年了，非常好的一款老粗布，老粗布的床单很舒服，他家的其他款也很好，都是纯棉的，买了他家两年的床单被罩了，给各位推荐一下可以去看看。\n主播/店铺：北辰粗布某纺",
+        "evidenceLevel": "L2",
+        "price": "51.6",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791977094054_0_i2pu2y.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791977094060_1_ynlk60.jpg"
+          }
+        ],
+        "author": "苏",
+        "authorUid": "uid_a0e6b938babe3811",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791977102418,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791978086457,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791976817133_dwn9yv.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

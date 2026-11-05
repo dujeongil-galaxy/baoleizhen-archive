@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad0b79b0155df167444cedd",
+        "id": "572942446ad0b79b0155df167444cedd",
+        "skuId": "sku-mv9g9ra01e9w",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：3D热弯AR抗反射增透膜",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "digital",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "膜星萌数码某技",
+        "anchorRaw": "膜星萌数码科技",
+        "content": "这个店铺卖的是假货，发过来东西货不对板，然后平台完全不管我投诉到现在什么反馈都没有，然后他退货还是商家同意的退货他才退的，某音的客服可以说和不存在没什么区别\n主播/店铺：膜星萌数码某技",
+        "evidenceLevel": "L2",
+        "price": "26.82",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792063380695_0_xi37av.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792063380697_1_5tbolw.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792063380697_2_gxemxl.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_032dc1df190b359f",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792063387163,
+        "date": "2026-10-15",
+        "status": "approved",
+        "auditTime": 1792065661905,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

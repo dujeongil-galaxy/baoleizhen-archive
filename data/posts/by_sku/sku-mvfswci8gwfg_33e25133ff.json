@@ -1,0 +1,130 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad693a101630fcc7089309c",
+        "id": "025756256ad693a101630fcc7089309c",
+        "skuId": "sku-mvfswci8gwfg",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：木帆家居 木帆新中式黑胡桃实木床1.8简约1.5",
+        "brand": "木帆某居",
+        "brandRaw": "木帆家居",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "木帆家居MUFANHOME M家纺家具家装旗舰店",
+        "anchorRaw": "木帆家居MUFANHOME M家纺家具家装旗舰店",
+        "content": "九月份买的这张床。之后一直出现有刺鼻的味道。然后那会我也咨询商家了，商家说过段时间就没有了。入住也是过了一段时间才入住的。入住一段时间后脑袋疼，鼻炎也犯了。家里虽然装修但是一直在意环保，居住的房间除了挂了一层乳胶漆和木地板就剩这张床了。也检测过了。前两天起床时发现床掉了一块，才发现不是实木，而且是最次的板材。拆了第二天屋里也不超标了，脑袋也不疼了。不写了懒得写了。  总结：该店谋财害命\n主播/店铺：木帆家居MUFANHOME M家纺家具家装旗舰店",
+        "evidenceLevel": "L3",
+        "price": "1217",
+        "claimEvidence": "已上传宣称证据 7 项",
+        "realEvidence": "实拍 3 项 + 订单凭证 2 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382936_0_gvkssk.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382938_1_t0qz55.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382938_2_wh0wnl.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382938_3_v7n4ff.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382939_4_vkuzcc.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382939_5_li5r4j.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382939_6_ts0gni.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382940_7_8v8yo4.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382940_8_y7m4am.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382941_9_itk7zf.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382941_10_9fy2lh.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792447382942_11_wpdm4q.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_100d82845205cc2c",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792447393530,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792455049245,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

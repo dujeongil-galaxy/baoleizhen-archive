@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad233c80059bcd658abd0f7",
+        "id": "ee9c9df06ad233c80059bcd658abd0f7",
+        "skuId": "sku-mvb27rlgdnip",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：小米 米家扫地机器人6",
+        "brand": "某米",
+        "brandRaw": "小米",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "某米",
+        "anchorRaw": "小米",
+        "content": "只适合大扫除之后的保持卫生\n灰尘加上轻微污渍（毛发 未干的饮料可乐）\n不适合有浴室有坡度的地方\n耗材需要换 （清洁液两个月 集尘袋一个月其他的300小时）\n基站需要清理（一个月）\n使用成本平均一块多左右一次（烘干拖布要两个小时占绝大头）\n可自行随时结束烘干（可能会因为没干发臭）\n\n上下水需留进水排水口以及电源口\n否则建议水箱版\n主播/店铺：某米",
+        "evidenceLevel": "L2",
+        "price": "2262",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160705959_0_vhscor.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160705962_1_5du4yg.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160705964_2_cmoceb.png"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792160711989,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792162078651,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

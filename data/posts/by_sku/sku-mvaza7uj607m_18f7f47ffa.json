@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad2208b00d90ed42e6c7ec7",
+        "id": "3f1b36026ad2208b00d90ed42e6c7ec7",
+        "skuId": "sku-mvaza7uj607m",
+        "type": "review",
+        "score": 3,
+        "tag": "一般",
+        "title": "实测：个性磁轴飘带扣改装迈从ACE68 GT专用侧板扣阳极氧化CNC铝 ACE 68 GT键盘飘带扣 ACE 68GT-专用安",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "auto",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "多夕某物",
+        "anchorRaw": "多夕好物",
+        "content": "质感很好但是不划算\n不建议买\n你个能心里要问了\n39.9怎么会这么贵呢 \n因为还有个飘带和铃铛都是配套的\n主播/店铺：多夕某物",
+        "evidenceLevel": "L2",
+        "price": "39.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792155766361_0_ger3h1.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792155766364_1_ysjujq.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792155787452,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792156091312,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

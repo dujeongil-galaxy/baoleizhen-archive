@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad225020059019f538da251",
+        "id": "ee9c9df06ad225020059019f538da251",
+        "skuId": "sku-mvazypdhqpd4",
+        "type": "review",
+        "score": 3,
+        "tag": "",
+        "title": "实测：帝玛 徕芬磁吸支架适配LF03电吹风机",
+        "brand": "某玛",
+        "brandRaw": "帝玛",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "帝玛官方旗某店",
+        "anchorRaw": "帝玛官方旗舰店",
+        "content": "如果你只有一个吹风机没有风嘴的话直接买单独的就行 这个用免钉胶粘的时候稍微多按一会\n主播/店铺：帝玛官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "23.39",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792156923501_0_cjr4ro.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792156923504_1_kbaqs8.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792156929951,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792157765344,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

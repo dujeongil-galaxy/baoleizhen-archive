@@ -1,0 +1,149 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad62ee8015e1c060e97d068",
+        "id": "025756256ad62ee8015e1c060e97d068",
+        "skuId": "sku-mvfdjogti7vf",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：稀物集 氨基酸洗面奶",
+        "brand": "稀某集",
+        "brandRaw": "稀物集",
+        "category": "beauty",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "稀物集官方旗某店",
+        "anchorRaw": "稀物集官方旗舰店",
+        "content": "这款洗面奶比较适合混油皮，控油能力还可以，清洁力也比较强，不是皂基洗面奶，敏感肌也可以用，也比较划算\n主播/店铺：稀物集官方旗某店",
+        "evidenceLevel": "L3",
+        "price": "64.2",
+        "claimEvidence": "已上传宣称证据 2 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421597221_0_0zqco1.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421597225_1_5bfq8k.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421597225_2_akzc1c.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792421597226_3_43j5h9.jpg"
+          }
+        ],
+        "author": "张元英第一",
+        "authorUid": "uid_092ce96130ae60ec",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_092ce96130ae60ec"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792421608270,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792421946637,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      },
+      {
+        "_id": "23de01f76adef41b005cc5f17ff6e2e9",
+        "id": "23de01f76adef41b005cc5f17ff6e2e9",
+        "skuId": "sku-mvfdjogti7vf",
+        "type": "review",
+        "score": 4,
+        "tag": "",
+        "title": "实测：稀物集 稀物集洗面奶松茸氨基酸洁面乳",
+        "brand": "稀某集",
+        "brandRaw": "稀物集",
+        "category": "beauty",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "稀物集官方旗某店",
+        "anchorRaw": "稀物集官方旗舰店",
+        "content": "最新版我感觉比较适合油皮，我是T区偏油，脸颊正常，洗完脸以后脸颊就会拔干，T区就没有问题，这款新版的松茸的味道比老版淡了很多\n主播/店铺：稀物集官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "98.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792996374109_0_126tyc.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792996374113_1_h2v9qw.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_40dc6ff773467ab9",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792996379465,
+        "date": "2026-10-26",
+        "status": "approved",
+        "auditTime": 1793006732296,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

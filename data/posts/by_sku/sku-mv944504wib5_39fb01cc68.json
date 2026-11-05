@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad067d900a349583973b149",
+        "id": "3f1b36026ad067d900a349583973b149",
+        "skuId": "sku-mv944504wib5",
+        "type": "review",
+        "score": 4,
+        "tag": "",
+        "title": "实测：蓝盒子 蓝盒子枕中枕N3",
+        "brand": "蓝某子",
+        "brandRaw": "蓝盒子",
+        "category": "home",
+        "platform": "某东",
+        "channel": "",
+        "anchor": "蓝盒子某营",
+        "anchorRaw": "蓝盒子自营",
+        "content": "晚上广告满天飞，实际体验感觉还行，价格就是不太便宜，但睡眠有支撑和软都满足了\n主播/店铺：蓝盒子某营",
+        "evidenceLevel": "L2",
+        "price": "377.4",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792042959833_0_xbebh4.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792042959836_1_orxlca.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_7b79fcce194ef2d4",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 2,
+        "helpfulUserIds": [
+          "uid_dffddef00c7d2247",
+          "uid_7b79fcce194ef2d4"
+        ],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792042969616,
+        "date": "2026-10-15",
+        "status": "approved",
+        "auditTime": 1792043876795,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

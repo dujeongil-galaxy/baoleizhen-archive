@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad6c048014e89b4785df883",
+        "id": "3f1b36026ad6c048014e89b4785df883",
+        "skuId": "sku-mvfzpcy66mfq",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：夫宇 【正品新日期】山东夫宇淀粉肠黄金脆皮煎烤肠油炸肠含竹签蘸料",
+        "brand": "某宇",
+        "brandRaw": "夫宇",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "吃的时候一股霉味，反馈客服，给我甩来检测报告。协商后退货退款。千万别买，我都担心给我吃坏了。某音旗舰店差评也有类似情况，说明食品安全根本就不行。在骨泥事件前根本没听说过，现在好多小摊还特意说是夫宇的，大家才放心，但是品牌根本担不起这份放心",
+        "evidenceLevel": "L2",
+        "price": "3",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458821087_0_y8q6y0.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792458821088_1_eg7w30.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_c069aa4eb43a110d",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792458824819,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792459137842,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

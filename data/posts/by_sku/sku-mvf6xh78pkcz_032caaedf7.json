@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad6037e015afa2144a93d83",
+        "id": "025756256ad6037e015afa2144a93d83",
+        "skuId": "sku-mvf6xh78pkcz",
+        "type": "review",
+        "score": 4,
+        "tag": "",
+        "title": "实测：旗舰 安耳悠耳塞Blue5对",
+        "brand": "某舰",
+        "brandRaw": "旗舰",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "安耳悠的耳塞在大学宿舍用的，除了隔不住人声（小声说话是听不见的），呼噜声基本上可以隔绝完。挺贴合耳道的，现在在用零听的耳塞也不错，跟安耳悠没啥区别，那个便宜买那个就好，但是安耳悠送的眼罩一般，不怎么舒适。\n安耳悠的耳塞扔了，现在手里有零听的",
+        "evidenceLevel": "L2",
+        "price": "37.69",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792410486679_0_4psr7q.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792410486680_1_h1j5g1.jpg"
+          }
+        ],
+        "author": "楚子航",
+        "authorUid": "uid_64d2ae32f431b579",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792410494707,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792410781215,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792409837532_tkoeh3.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

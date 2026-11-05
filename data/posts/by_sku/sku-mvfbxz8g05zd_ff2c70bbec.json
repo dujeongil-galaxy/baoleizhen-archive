@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad62464008516ba03ec2682",
+        "id": "ee9c9df06ad62464008516ba03ec2682",
+        "skuId": "sku-mvfbxz8g05zd",
+        "type": "review",
+        "score": 3,
+        "tag": "一般",
+        "title": "实测：男士素颜霜控油提亮遮瑕遮痘印持久妆隔离面霜自然护肤品学生送男友",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "beauty",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "没法遮那些痘坑痘印那些的 只能淡化 黑眼圈也没法完全遮干净 但是对于想让肤色变白的 确实可以购买 效果图不错 我实拍图的手中间有一块 明显泛白就是用了这款的效果 厚涂皮肤的话会有点假白 设计不好 第一张实拍图就是需要挤 然后再按压才能出来的",
+        "evidenceLevel": "L2",
+        "price": "5.19",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418912171_0_6evs5x.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418912175_1_jpaqoo.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792418912176_2_8na2j7.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_856e602dbed01aa1",
+        "creditScore": 20,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_856e602dbed01aa1"
+        ],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_856e602dbed01aa1"
+        ],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_061d58fee3d977d9"
+        ],
+        "createTime": 1792418916172,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792419303691,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 50,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792419800469_caxy7d.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

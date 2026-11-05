@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad64d5c016025a03527b7dc",
+        "id": "025756256ad64d5c016025a03527b7dc",
+        "skuId": "sku-mvfi6rnck0cp",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：婴舒宝 菌早安裤安睡裤经期防漏姨妈巾安心",
+        "brand": "婴某宝",
+        "brandRaw": "婴舒宝",
+        "category": "baby",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "婴某宝",
+        "anchorRaw": "婴舒宝",
+        "content": "女生买安睡裤千万壁垒，不要看名字是婴舒宝就以为好用，一穿没走几步就断了，闷痘，穿别的品牌也闷痘，但是从来没有出现过穿着就从腰的地方断的\n主播/店铺：婴某宝",
+        "evidenceLevel": "L3",
+        "price": "25.42",
+        "claimEvidence": "已上传宣称证据 2 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792429396020_0_umbb6f.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792429396023_1_6vy5jg.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792429396025_2_8xhcmx.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792429396026_3_67x4fx.png"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_400fb52647012db9",
+        "creditScore": 6,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792429403936,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792429655395,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

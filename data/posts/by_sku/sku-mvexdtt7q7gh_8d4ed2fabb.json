@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad5c4dd0184439b5aadc632",
+        "id": "572942446ad5c4dd0184439b5aadc632",
+        "skuId": "sku-mvexdtt7q7gh",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：佑美 四合一划船机家用可加A5进口乳胶两种度通承量300斤",
+        "brand": "某美",
+        "brandRaw": "佑美",
+        "category": "sports",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "质量非常差。装好以后都不能稳当的放在地上，弹力绳在使用三次以后在手柄那里居然出现了破损，坐垫的滑轮还出现了破损。而且退货会超级麻烦！！这东西12kg，因为在某宝退货选上门取会因为超重拒收，如果自己发邮政还会因为超长拒收，最后快递费你还要去和他扯皮才有可能给你报销",
+        "evidenceLevel": "L2",
+        "price": "429.58",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792394453651_0_6p27np.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792394453656_1_l3a3k3.png"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_267e1e41559d1f9d",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_e2122e6fad0535cb"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792394461396,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792398022171,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

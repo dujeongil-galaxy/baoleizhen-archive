@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad222b801641de50060e242",
+        "id": "572942446ad222b801641de50060e242",
+        "skuId": "sku-mvazm5rcqlda",
+        "type": "review",
+        "score": 3,
+        "tag": "",
+        "title": "实测：大框墨镜女可套近视镜连体镜片T R90超轻近视专套镜男士夏季太",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "clothing",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "new eyes",
+        "anchorRaw": "new eyes",
+        "content": "好看 只适合到了景点带上拍个照片 \n纯纯大黑塑料片\n飞行员眼镜戴不进去\n啥都不防\n主播/店铺：NEW EYES",
+        "evidenceLevel": "L2",
+        "price": "29.78",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792156337190_0_kktygf.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792156337195_1_zc0jx2.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792156344679,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792157782419,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

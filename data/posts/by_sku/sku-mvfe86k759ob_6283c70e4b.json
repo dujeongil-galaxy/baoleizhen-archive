@@ -1,0 +1,75 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad6335f0085d169546d4b84",
+        "id": "ee9c9df06ad6335f0085d169546d4b84",
+        "skuId": "sku-mvfe86k759ob",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：唐业 乳酸菌酸奶随机混合口味/10片*15枚(150粒[散装非彩盒])",
+        "brand": "某业",
+        "brandRaw": "唐业",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "唐业某品",
+        "anchorRaw": "唐业食品",
+        "content": "不是奶瓶，巨难吃，纯是糖精糖片，很廉价的味道\n主播/店铺：唐业某品",
+        "evidenceLevel": "L2",
+        "price": "7.79",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792422747217_0_q25d6e.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792422747222_1_ho8cvb.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_fbef1ea529adff14",
+        "creditScore": 16,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_fbef1ea529adff14"
+        ],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_fbef1ea529adff14"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792422751444,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792422807586,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

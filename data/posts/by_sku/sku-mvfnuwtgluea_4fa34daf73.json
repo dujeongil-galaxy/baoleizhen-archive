@@ -1,0 +1,106 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad6729001492c225ea323c3",
+        "id": "3f1b36026ad6729001492c225ea323c3",
+        "skuId": "sku-mvfnuwtgluea",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：OPPO OPPO Enco Air5Pro真无线... 雾夜黑",
+        "brand": "OPPO",
+        "brandRaw": "OPPO",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "OPPO数码专卖店",
+        "anchorRaw": "OPPO数码专卖店",
+        "content": "因为降噪问题，我选择换货，我把原装一起发过去，商家给我发个二手过来还有两个设备配对信息，商家死鸭子嘴硬，说是检测员检测设备，检测就算了还有磕碰，避雷这个店铺\n主播/店铺：OPPO数码专卖店",
+        "evidenceLevel": "L3",
+        "price": "226",
+        "claimEvidence": "已上传宣称证据 5 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792438922822_0_6dirhm.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792438922825_1_9qxyfm.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792438922825_2_gagi04.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792438922826_3_2d5g3c.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792438922826_4_j68oja.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792438922827_5_7v4u8m.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792438922827_6_73rrmy.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_0c04bfb6caa43789",
+        "creditScore": 8,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_0c04bfb6caa43789"
+        ],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_0c04bfb6caa43789",
+          "uid_725d77375e2d379f"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792438928443,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792455053995,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792439058027_c5d1kh.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

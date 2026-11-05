@@ -1,0 +1,100 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad721cb016b84b4530b330d",
+        "id": "025756256ad721cb016b84b4530b330d",
+        "skuId": "sku-mvgeke6nu1t5",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：鑫泳源柚子",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "鑫泳源水果供某店",
+        "anchorRaw": "鑫泳源水果供应店",
+        "content": "抖音刷券9.9或10.9，走软件返利3.33，好评返现2，实际到手两个柚子4.6或5.6元，味道微甜偏酸，吃了8个了已经，就一个有点上面有点偏干，但下面水分很足，其他的都很水润，已经回购10次了\n主播/店铺：鑫泳源水果供某店",
+        "evidenceLevel": "L2",
+        "price": "9.90",
+        "claimEvidence": "",
+        "realEvidence": "实拍 3 项 + 订单凭证 4 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792483777038_0_3mnd9o.png"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792483777040_1_461zd6.png"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792483777042_2_fcalaw.png"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792483777043_3_xmuiv8.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792483777044_4_mwyqsw.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792483777045_5_lq2o9a.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792483777045_6_0vb33h.jpg"
+          }
+        ],
+        "author": "_",
+        "authorUid": "uid_5cc023f60178e274",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_5cc023f60178e274"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792483787367,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792485614651,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792483126200_fqgldn.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

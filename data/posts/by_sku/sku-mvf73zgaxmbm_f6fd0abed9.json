@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad604ae0141027f16b6cf9a",
+        "id": "3f1b36026ad604ae0141027f16b6cf9a",
+        "skuId": "sku-mvf73zgaxmbm",
+        "type": "review",
+        "score": 3,
+        "tag": "品质差",
+        "title": "实测：鲨鱼菲特 【到手660g]燕麦肉包蛋60g*11",
+        "brand": "鲨鱼某特",
+        "brandRaw": "鲨鱼菲特",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "有点小一个不会饱腹且有蛋壳",
+        "evidenceLevel": "L3",
+        "price": "13.90",
+        "claimEvidence": "已上传宣称证据 2 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792410794291_0_bwtss7.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792410794294_1_k2nktb.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792410794295_2_7wxu43.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792410794295_3_1h7k6x.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_ed3463fd21387e1b",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792410798311,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792410823867,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

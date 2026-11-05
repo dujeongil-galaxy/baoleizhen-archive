@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad63363015e573f00156bae",
+        "id": "025756256ad63363015e573f00156bae",
+        "skuId": "sku-mvfe89nmsutr",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：蓝氏 蓝氏正品十公斤乳鸽猫粮幼猫成猫通用蓝氏猫",
+        "brand": "某氏",
+        "brandRaw": "蓝氏",
+        "category": "pet",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "吾爱萌主某物",
+        "anchorRaw": "吾爱萌主宠物",
+        "content": "正品实惠\n主播/店铺：吾爱萌主某物",
+        "evidenceLevel": "L2",
+        "price": "252.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792422722834_0_6gle5k.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792422722836_1_9fcwq4.png"
+          }
+        ],
+        "author": "TT",
+        "authorUid": "uid_5f2349103f921fc3",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_5f2349103f921fc3"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792422755351,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792422805388,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792421857231_e2xku2.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad6478200867c7d2eed43c3",
+        "id": "ee9c9df06ad6478200867c7d2eed43c3",
+        "skuId": "sku-mvfhanyo8p4b",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：几素 几素挂脖小风扇便携",
+        "brand": "某素",
+        "brandRaw": "几素",
+        "category": "home",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "某素",
+        "anchorRaw": "几素",
+        "content": "感觉还挺不错的，风吹的很舒服，然后续航真的出乎意料的强，几乎不怎么担心没电，缺点就是有一点点沉，戴起来的话也没有特别舒服可能大多数挂脖风扇都一样吧，然后夏天出汗的话也只能吹到脖子以上，以下依旧很热，感觉这算是挂脖风扇的弊端了\n主播/店铺：某素",
+        "evidenceLevel": "L2",
+        "price": "170.42",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792427901863_0_sx1ck2.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792427901866_1_yljl8z.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_a37f4693a429771b",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_a37f4693a429771b"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792427906176,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792428121409,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792427916136_q7gb7j.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

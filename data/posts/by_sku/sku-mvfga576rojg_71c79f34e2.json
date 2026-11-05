@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad640da015fac9f52821f0d",
+        "id": "025756256ad640da015fac9f52821f0d",
+        "skuId": "sku-mvfga576rojg",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：CRDRAKO KO-ONE（龙鼠）",
+        "brand": "CRDRAKO",
+        "brandRaw": "CRDRAKO",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "模具解析：适合中小手内扣抓握，如果不内扣和抓趴请谨慎购买。前抓握和后抓握都很爽，掌控感很好，不会发飘。如果是donk那样的特别前伸抓握不推荐购买，屁股会太高了。\n优点：这个模具对得起580。\n缺点：lod高度只有0.7mm，1mm，2mm三个选项，我想用0.9mm换不了。",
+        "evidenceLevel": "L2",
+        "price": "581",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792426197435_0_fd5qk2.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792426197437_1_e2ngxl.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792426197437_2_4ky4n5.jpg"
+          }
+        ],
+        "author": "外设小灏",
+        "authorUid": "uid_aec1c40c11246494",
+        "creditScore": 6,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792426202215,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792426375959,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792423244440_yxcus0.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad226b3005916d1173a9872",
+        "id": "ee9c9df06ad226b3005916d1173a9872",
+        "skuId": "sku-mvb07zyzno86",
+        "type": "review",
+        "score": 2,
+        "tag": "",
+        "title": "实测：ZTE中兴 FTTR全屋组网覆盖G7611V2+G7611V2 WiFi6 全光家庭 1612移动版家用穿墙3000M",
+        "brand": "ZTE中兴",
+        "brandRaw": "ZTE中兴",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "鑫新网络某备",
+        "anchorRaw": "鑫新网络设备",
+        "content": "勉勉强强跑满前兆\n只有两个网线口\n一个光纤口\n实际上行协商速率1000mb\n组fttr的买同品牌型号就行没必要买一样的\n主播/店铺：鑫新网络某备",
+        "evidenceLevel": "L2",
+        "price": "65",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792157356599_0_gr0ojd.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792157356603_1_fboyug.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792157356605_2_kyyfpd.png"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_fd4d00bdfd1daf8f"
+        ],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_fd4d00bdfd1daf8f",
+          "uid_d48d31ef90153b66"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792157363607,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792157757359,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

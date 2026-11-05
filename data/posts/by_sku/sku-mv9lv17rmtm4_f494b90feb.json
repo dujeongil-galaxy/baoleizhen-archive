@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad0dc4a004afc2617598fb7",
+        "id": "ee9c9df06ad0dc4a004afc2617598fb7",
+        "skuId": "sku-mv9lv17rmtm4",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：哈士奇大毛绒玩具狗公仔熊布娃娃玩偶陪睡觉抱枕女孩生日礼",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "toy",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "咪豆毛绒玩某屋",
+        "anchorRaw": "咪豆毛绒玩具屋",
+        "content": "图片与实物完全不符\n主播/店铺：咪豆毛绒玩某屋",
+        "evidenceLevel": "L3",
+        "price": "22.9",
+        "claimEvidence": "已上传宣称证据 3 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792072773789_0_5mvhwk.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792072773791_1_nuoqjg.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792072773791_2_krdr6v.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792072773791_3_hjf22g.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792072773791_4_ax81kt.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_97678dcdf70c333a",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 5,
+        "agreeUserIds": [
+          "uid_f4fd668e7809180a",
+          "uid_11cdf72cc4d8e59c",
+          "uid_b44c0b8993aa885c",
+          "uid_07ba2f0c4060f04f",
+          "uid_947b0ed725dc43cd"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792072777874,
+        "date": "2026-10-15",
+        "status": "approved",
+        "auditTime": 1792075722781,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

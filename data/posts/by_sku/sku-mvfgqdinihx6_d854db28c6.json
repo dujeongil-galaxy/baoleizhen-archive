@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad643cf0086643208a78dfb",
+        "id": "ee9c9df06ad643cf0086643208a78dfb",
+        "skuId": "sku-mvfgqdinihx6",
+        "type": "review",
+        "score": 4,
+        "tag": "划算",
+        "title": "实测：东沃 水龙头过滤器家用自来水净化器厨房龙头滤嘴延伸器",
+        "brand": "某沃",
+        "brandRaw": "东沃",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "东沃wodo厨房卫浴官方旗舰店",
+        "anchorRaw": "东沃wodo厨房卫浴官方旗舰店",
+        "content": "它这个过滤挺好的，它的过滤是棉材质，过滤泥沙，苔藓等等这一类好用，因为我家顶楼储水桶里面没有盖紧，然后长苔藓了，当时到了之后，我装当时到了之后我装上去用，我寻思怎么一两天就全黑了，然后过了几天我去看了一下，他这个过滤确实挺好用 很细小的泥沙也能给你过滤出来 并且它这个不用打孔，除了洗手台这一类的需要拧个螺丝之外，剩下的都可以不用拧螺丝，并且可以适用于大部分的水龙头\n主播/店铺：东沃wodo厨房卫浴官方旗舰店",
+        "evidenceLevel": "L2",
+        "price": "12.6",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792426956051_0_fzdxs4.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792426956053_1_c543al.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_947b0ed725dc43cd",
+        "creditScore": 11,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_abd66d9b919039c1"
+        ],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792426959511,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792428131162,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

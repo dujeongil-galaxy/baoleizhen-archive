@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "1457ac026adc54bb000e021347ad98b9",
+        "id": "1457ac026adc54bb000e021347ad98b9",
+        "skuId": "sku-mvm1f71ocw0h",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：爱马仕 爱马仕大地男士淡香水EDT持",
+        "brand": "爱某仕",
+        "brandRaw": "爱马仕",
+        "category": "beauty",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "感觉假货",
+        "evidenceLevel": "L3",
+        "price": "195.93",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 4 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792824502512_0_jazk2q.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792824502517_1_gh2gn1.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792824502518_2_eaz16u.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792824502520_3_se3va9.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792824502521_4_8z2tsq.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792824502523_5_cr4964.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_56144be8833dbdec",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792824506870,
+        "date": "2026-10-24",
+        "status": "approved",
+        "auditTime": 1792831221435,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

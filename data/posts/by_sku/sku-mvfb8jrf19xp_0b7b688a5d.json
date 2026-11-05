@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad61fc10084d410424804ea",
+        "id": "ee9c9df06ad61fc10084d410424804ea",
+        "skuId": "sku-mvfb8jrf19xp",
+        "type": "review",
+        "score": 5,
+        "tag": "",
+        "title": "实测：凯旺 浴室拖鞋门后拖鞋置物架沥水架",
+        "brand": "某旺",
+        "brandRaw": "凯旺",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "简约小某家",
+        "anchorRaw": "简约小居家",
+        "content": "特别好 之前买的拖鞋架子要么因为拖鞋太厚塞不进去 要不就是放不下男士拖鞋 这个不锈钢的很结实 放厚拖鞋和男士拖鞋都能放下 还可以洗完澡用脚放拖鞋 不脏手\n主播/店铺：简约小某家",
+        "evidenceLevel": "L2",
+        "price": "9.94",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792417727324_0_v1kx28.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792417727327_1_61alrl.png"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_f4fd668e7809180a",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792417729590,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792418808626,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

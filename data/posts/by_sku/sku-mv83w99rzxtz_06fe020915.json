@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026acf7a37008c8d8a522f4a08",
+        "id": "3f1b36026acf7a37008c8d8a522f4a08",
+        "skuId": "sku-mv83w99rzxtz",
+        "type": "review",
+        "score": 5,
+        "tag": "",
+        "title": "实测：安耳悠 耳塞（舒适小号）",
+        "brand": "安某悠",
+        "brandRaw": "安耳悠",
+        "category": "home",
+        "platform": "某宝",
+        "channel": "旗舰店",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "买过很多 这个耳塞是相对网红产品来说是最降噪的  但也只能起到耳塞的效果 不能完全静音",
+        "evidenceLevel": "L2",
+        "price": "25",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791982130683_0_rekpbp.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791982130685_1_ycqy53.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_afaeb0a1392657cf",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666",
+          "uid_1ffa0192c06467d5"
+        ],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_834f5522b60946b6"
+        ],
+        "createTime": 1791982135750,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791982973775,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 67,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

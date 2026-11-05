@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "fb505a7c6ae1f0b2003efa1d6ed003b3",
+        "id": "fb505a7c6ae1f0b2003efa1d6ed003b3",
+        "skuId": "sku-mvs4ab54iodo",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：食纤喜 食纤喜手工果木碳烤风干鸡肉干",
+        "brand": "食某喜",
+        "brandRaw": "食纤喜",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "小新手工某食",
+        "anchorRaw": "小新手工零食",
+        "content": "他家鸡胸肉干是我吃过最好吃的，真实果木香，肉干，非常干香，我基本拿到立马开始吃最快当天就能吃完，慢的话也2-3天就吃完了，没有图片给你没看，我能保证是真好吃因为我一想吃鸡胸肉干就只买他家的力荐，我刚才又买了，实物图片是从老板朋友圈截图的\n主播/店铺：小新手工某食",
+        "evidenceLevel": "L3",
+        "price": "10.75",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 6 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793192108417_0_2fs873.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793192108419_1_ae227q.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793192108420_2_fjvfch.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793192108420_3_qspxfg.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793192108420_4_tqwiqr.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793192108420_5_x100u2.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793192108421_6_kn6tkz.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793192108421_7_t4u1lz.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_c5f50f8a1a478234",
+        "creditScore": 6,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793192114773,
+        "date": "2026-10-28",
+        "status": "approved",
+        "auditTime": 1793196498095,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

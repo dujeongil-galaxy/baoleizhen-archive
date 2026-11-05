@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "e033fa346ae1e74f006caf0b25b15674",
+        "id": "e033fa346ae1e74f006caf0b25b15674",
+        "skuId": "sku-mvs2usinvqi8",
+        "type": "review",
+        "score": 5,
+        "tag": "",
+        "title": "实测：律小卡 杂粮红豆饼红豆≥90%红豆糕独立包装饱腹零食糕点",
+        "brand": "律某卡",
+        "brandRaw": "律小卡",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "5块钱一斤的红豆糕，还是红小豆的，完全不甜，豆香浓郁，非常适合健身减脂人群补充植物蛋白（动物蛋白和植物蛋白同样重要）",
+        "evidenceLevel": "L2",
+        "price": "10.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793189704479_0_w9cin7.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793189704481_1_h5yner.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_83be28da1731ae5f",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793189711195,
+        "date": "2026-10-28",
+        "status": "approved",
+        "auditTime": 1793196501118,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

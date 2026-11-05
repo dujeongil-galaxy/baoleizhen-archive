@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad5f18f0082609541c73599",
+        "id": "ee9c9df06ad5f18f0082609541c73599",
+        "skuId": "sku-mvf47275zw8a",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：一加 一加15 16GB+512GB 原色",
+        "brand": "某加",
+        "brandRaw": "一加",
+        "category": "digital",
+        "platform": "某东",
+        "channel": "",
+        "anchor": "OPPO京东自营店",
+        "anchorRaw": "OPPO京东自营店",
+        "content": "掉漆非常严重，别买就对了，还不给保修\n主播/店铺：OPPO京东自营店",
+        "evidenceLevel": "L3",
+        "price": "4880.00",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792405898987_0_ckqy6p.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792405898988_1_kzc8km.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792405898988_2_q52lxy.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792405898989_3_dbskh5.jpg"
+          }
+        ],
+        "author": "kk",
+        "authorUid": "uid_ccbc5cc457e1e997",
+        "creditScore": 6,
+        "merchantResponse": null,
+        "helpfulCount": 6,
+        "helpfulUserIds": [
+          "uid_ccbc5cc457e1e997",
+          "uid_69587f5e0152022e",
+          "uid_7264756acb83577c",
+          "uid_fd4d00bdfd1daf8f",
+          "uid_d55096da47324da9",
+          "uid_52e685d54ac70978"
+        ],
+        "agreeCount": 16,
+        "agreeUserIds": [
+          "uid_fd4d00bdfd1daf8f",
+          "uid_0ee836b58cc63419",
+          "uid_b322bc8e171c97a9",
+          "uid_d48d31ef90153b66",
+          "uid_cee9915cc28f12cd",
+          "uid_0989aca960189508",
+          "uid_be9b25ca8e79c60e",
+          "uid_c751d6092da3fd36",
+          "uid_d10b7deeaba0dd61",
+          "uid_e3fa90f6dc701d6c",
+          "uid_01798d51cdb83b4e",
+          "uid_f3ead6e887900958",
+          "uid_1ffa0192c06467d5",
+          "uid_c5f50f8a1a478234",
+          "uid_8227130a5e3e7502",
+          "uid_127c9bfd68d22bfb"
+        ],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_d93ab19b47bde871"
+        ],
+        "createTime": 1792405902986,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792406265303,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 94,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792405534525_u1bc1z.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

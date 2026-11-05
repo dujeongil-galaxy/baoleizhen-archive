@@ -1,0 +1,80 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "a2cf60796adf4194006e6c9b0ded4e81",
+        "id": "a2cf60796adf4194006e6c9b0ded4e81",
+        "skuId": "sku-mvp7k3uoh0hr",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：范秀娟 无骨鸡爪(鸡爪1千克)柠檬酸辣味(微辣1000克)",
+        "brand": "范某娟",
+        "brandRaw": "范秀娟",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "我觉得40块钱两斤做到这个质量不错\n我觉得这个口味（辣度）对于广东人来说刚刚好（本人比较喜欢吃辣）\n挺划算的闭眼入 其实也没有网上说的碎 其实个人觉得还好",
+        "evidenceLevel": "L3",
+        "price": "39.90",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793016206738_0_pp6c7x.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793016206741_1_8kfkh0.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793016206742_2_9oyhjm.png"
+          }
+        ],
+        "author": "心语无用",
+        "authorUid": "uid_1969416722299dc5",
+        "creditScore": 15,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_c5f50f8a1a478234",
+          "uid_ba12802e793d440e"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793016212251,
+        "date": "2026-10-26",
+        "status": "approved",
+        "auditTime": 1793018800554,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792159386548_6rae4g.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

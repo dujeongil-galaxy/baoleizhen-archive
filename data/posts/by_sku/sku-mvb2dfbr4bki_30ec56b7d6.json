@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad234d00059c976602b1b26",
+        "id": "ee9c9df06ad234d00059c976602b1b26",
+        "skuId": "sku-mvb2dfbr4bki",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：PUREPROTECT 柜门后防碰撞静音颗粒加厚防撞条门把手防撞垫硅胶冰箱门挡贴床板防撞磕碰加厚隐形无痕防撞贴消音降噪柔软高弹减震缓冲保护家居",
+        "brand": "PUREPROTECT",
+        "brandRaw": "PUREPROTECT",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "按需购买 别买太多\n用了几个月目前没发现氧化变黄问题",
+        "evidenceLevel": "L2",
+        "price": "20.8",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160967311_0_13cth1.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160967314_1_gfpypg.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792160976009,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792162044372,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad221800058d62519062374",
+        "id": "ee9c9df06ad221800058d62519062374",
+        "skuId": "sku-mvazfgj5ru18",
+        "type": "review",
+        "score": 3,
+        "tag": "一般",
+        "title": "实测：个性磁轴飘带扣改装迈从ACE68G专用侧板扣阳极氧化CNC铝合金",
+        "brand": "无品牌/白牌",
+        "brandRaw": "无品牌/白牌",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "多夕某物",
+        "anchorRaw": "多夕好物",
+        "content": "19.9单看很好很合适\n但是加上cnc模块要60\n我不理解 但是我买了为了情绪价值\n单买我建议 但是作为配套emmm\n三思而后行\n哦对了还要自己动手修剪有点小小的麻烦\n主播/店铺：多夕某物",
+        "evidenceLevel": "L2",
+        "price": "19.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792156025160_0_ltqayy.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792156025161_1_0q3j42.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792156032038,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792156087992,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

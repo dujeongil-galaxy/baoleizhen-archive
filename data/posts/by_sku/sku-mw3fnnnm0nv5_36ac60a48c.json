@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "26e6387f6aec6175001dbb77586ce8c1",
+        "id": "26e6387f6aec6175001dbb77586ce8c1",
+        "skuId": "sku-mw3fnnnm0nv5",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：迈从 A7高阶轻量化电竞鼠标 A7旗舰轻量化电竞鼠标",
+        "brand": "某从",
+        "brandRaw": "迈从",
+        "category": "digital",
+        "platform": "某东",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "避雷，刚过质保半年就开始出现鼠标断触，想选这个品牌的慎重，送的贴纸的胶也撕不下来",
+        "evidenceLevel": "L2",
+        "price": "198.98",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793876331394_0_r3wegd.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793876331397_1_lpa1vb.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_1defe639f0f2396d",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793876341219,
+        "date": "2026-11-05",
+        "status": "approved",
+        "auditTime": 1793879896089,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

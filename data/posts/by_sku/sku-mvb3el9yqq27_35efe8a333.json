@@ -1,0 +1,75 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad23b9600dca9f56d500ce6",
+        "id": "3f1b36026ad23b9600dca9f56d500ce6",
+        "skuId": "sku-mvb3el9yqq27",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：村驴家 村驴家黏糊东北麻辣烫",
+        "brand": "村某家",
+        "brandRaw": "村驴家",
+        "category": "food",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "差不多十一块一包 做起来的速度还是挺快的 主要是吃麻辣烫那个味 弄点生菜和肉不比外面吃的外卖点的麻辣烫差 （虽然价格也差不多）",
+        "evidenceLevel": "L2",
+        "price": "56.4",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792162703285_0_76f2az.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792162703287_1_f72m6p.jpg"
+          }
+        ],
+        "author": "几太ovo",
+        "authorUid": "uid_80b03246847f5033",
+        "creditScore": 25,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 3,
+        "agreeUserIds": [
+          "uid_80b03246847f5033",
+          "uid_46eeaa946820d88a",
+          "uid_1ffa0192c06467d5"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792162709992,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792164683923,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792161482695_0m7l76.jpeg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

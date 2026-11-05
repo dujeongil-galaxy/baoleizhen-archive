@@ -1,0 +1,152 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026acfa15a0090efbf4a509fb5",
+        "id": "3f1b36026acfa15a0090efbf4a509fb5",
+        "skuId": "sku-mv89uzdrrprl",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：同碗福 蟹黄拌面（10）",
+        "brand": "同某福",
+        "brandRaw": "同碗福",
+        "category": "food",
+        "platform": "某音",
+        "channel": "旗舰店",
+        "anchor": "泡面某生",
+        "anchorRaw": "泡面先生",
+        "content": "两块钱一包的拌面只能说挺好吃的  就是有时候酱料会有一点点味道会有些反感 但是价钱来看可以是夯爆了！\n在宿舍里面就是硬通货\n主播/店铺：泡面某生",
+        "evidenceLevel": "L3",
+        "price": "19.9",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791992144078_0_zhebri.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791992144084_1_7to794.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791992144085_2_67oxfv.png"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791992144086_3_s0c8gi.png"
+          }
+        ],
+        "author": "心语无用",
+        "authorUid": "uid_1969416722299dc5",
+        "creditScore": 15,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791992153950,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791992860401,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792159386548_6rae4g.jpg",
+        "isJury": false,
+        "isFollowed": false
+      },
+      {
+        "_id": "ee9c9df06ad1251d004d54cd4d3dd892",
+        "id": "ee9c9df06ad1251d004d54cd4d3dd892",
+        "skuId": "sku-mv89uzdrrprl",
+        "type": "review",
+        "score": 5,
+        "tag": "划算",
+        "title": "实测：同碗面 同碗面蟹黄拌面",
+        "brand": "同某面",
+        "brandRaw": "同碗面",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "泡面某生",
+        "anchorRaw": "泡面先生",
+        "content": "便宜好吃，不过本人胃口大，一次下两包才勉强够吃，吃完会有点口干，酱料也是差不多够捞面\n主播/店铺：泡面某生",
+        "evidenceLevel": "L2",
+        "price": "7.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 2 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792091412406_0_e0zg11.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792091412409_1_0viz9q.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792091412410_2_lidene.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_740042ad9fad9676",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792091421161,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792105080494,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

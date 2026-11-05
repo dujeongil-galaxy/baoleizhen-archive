@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad6fc400168ca031a414963",
+        "id": "025756256ad6fc400168ca031a414963",
+        "skuId": "sku-mvg8ue3fi70l",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：步歌者 电竞游戏蓝牙耳机新款JX10续航无线延迟入耳式高音质苹果安卓通用",
+        "brand": "步某者",
+        "brandRaw": "步歌者",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "魔尔声数码专某业",
+        "anchorRaw": "魔尔声数码专营业",
+        "content": "价格在50左右的一款蓝牙耳机，音质达到百元级，不过品控不够好，我买的6次只有一次完全没问题，其他的存在微小噪音/误触/自关机等情况，建议收到货有问题退换，续航在5小时左右，完全可以作为游戏用耳机。\n主播/店铺：魔尔声数码专某业",
+        "evidenceLevel": "L2",
+        "price": "47.1",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792474166535_0_4eh3c9.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792474166538_1_qmnx2q.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_3de804b3177577e6",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792474176100,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792475506130,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ada118a00b294711d53f89e",
+        "id": "ee9c9df06ada118a00b294711d53f89e",
+        "skuId": "sku-mvjl56yuy9tg",
+        "type": "review",
+        "score": 4,
+        "tag": "划算",
+        "title": "实测：霍尼韦尔 LL-1隔音耳塞防噪声降噪学习工",
+        "brand": "霍尼某尔",
+        "brandRaw": "霍尼韦尔",
+        "category": "health",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "优点:我感觉这是比较有性价比的\n缺点:达不到特别安静的程度，但对我来说够用了",
+        "evidenceLevel": "L2",
+        "price": "9.7",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792676220220_0_wnaiki.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792676220224_1_9ro5qr.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792676220224_2_5i1v8o.jpg"
+          }
+        ],
+        "author": "宁宴",
+        "authorUid": "uid_22adc547b9e1a118",
+        "creditScore": 14,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792676234002,
+        "date": "2026-10-22",
+        "status": "approved",
+        "auditTime": 1792679647457,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792473326982_qpu5zk.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad6c636018ffbf73fab65ad",
+        "id": "572942446ad6c636018ffbf73fab65ad",
+        "skuId": "sku-mvg0lw76gdez",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：林氏生活 云感舒睡床垫",
+        "brand": "林氏某活",
+        "brandRaw": "林氏生活",
+        "category": "home",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "林氏生活官方旗某店",
+        "anchorRaw": "林氏生活官方旗舰店",
+        "content": "我90多斤坐下去就有触底了床垫太塌太软也很不透气我在南方用的很闷\n主播/店铺：林氏生活官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "449.10",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792460339250_0_2nu4rr.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792460339252_1_3hwmol.jpg"
+          }
+        ],
+        "author": "橘子",
+        "authorUid": "uid_5d910425cafb9908",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792460342673,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792460423996,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

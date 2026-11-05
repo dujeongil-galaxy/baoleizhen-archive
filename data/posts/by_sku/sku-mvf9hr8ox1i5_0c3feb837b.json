@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad61450018a1c1c5b4b04be",
+        "id": "572942446ad61450018a1c1c5b4b04be",
+        "skuId": "sku-mvf9hr8ox1i5",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：VGN VGNV87V2有线/蓝牙/无线三模机械键盘87键电竞游戏客制化",
+        "brand": "VGN",
+        "brandRaw": "VGN",
+        "category": "digital",
+        "platform": "某东",
+        "channel": "",
+        "anchor": "VGN京东自营旗舰店",
+        "anchorRaw": "VGN京东自营旗舰店",
+        "content": "这个键盘在关灯状态下，按住shift和w，再点按数字区一整行任何一个按键的时候都会触发ctrl。换货两次都有同样问题。\n主播/店铺：VGN京东自营旗舰店",
+        "evidenceLevel": "L3",
+        "price": "239",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792414791841_0_edz8bw.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792414791842_1_tgd5hp.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792414791843_2_tzpm86.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_dbb58cca57fbd620",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_2f406a2a6f3af9d3"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792414800083,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792415822690,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

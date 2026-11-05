@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad60fb00142060324755a07",
+        "id": "3f1b36026ad60fb00142060324755a07",
+        "skuId": "sku-mvf8se9sxowa",
+        "type": "review",
+        "score": 2,
+        "tag": "品质差",
+        "title": "实测：COGO 高积木正版宇宙星神变形星球儿童男孩机器人人机甲金刚玩具全套阿波罗盖亚",
+        "brand": "COGO",
+        "brandRaw": "COGO",
+        "category": "toy",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "容易断而且站不稳",
+        "evidenceLevel": "L2",
+        "price": "30.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792413601788_0_2j36qw.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792413601793_1_6ot2vs.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792413601794_2_5ultqj.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_4fe06fb2ebcf91a7",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_d48d31ef90153b66"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792413616855,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792413937574,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

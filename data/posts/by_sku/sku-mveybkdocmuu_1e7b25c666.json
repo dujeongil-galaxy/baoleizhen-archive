@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad5cb030184a75a438b391c",
+        "id": "572942446ad5cb030184a75a438b391c",
+        "skuId": "sku-mveybkdocmuu",
+        "type": "review",
+        "score": 2,
+        "tag": "品质差",
+        "title": "实测：迈斯朋克 Pro乳清蛋白粉4磅",
+        "brand": "迈斯某克",
+        "brandRaw": "迈斯朋克",
+        "category": "health",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "官方旗某店",
+        "anchorRaw": "官方旗舰店",
+        "content": "含量没有问题，亮氨酸也够用，但是口感真的差，差到无法想象，糊嘴+糊嗓子，三百多买的乳清蛋白粉口感甚至不如酵母，避雷避雷避雷！\n主播/店铺：官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "349.00",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792396030655_0_gi235s.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792396030659_1_zbp9ng.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_3d153e1cf4f2d5f8",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_856e602dbed01aa1"
+        ],
+        "doubtCount": 2,
+        "doubtUserIds": [
+          "uid_357d64dba733d008",
+          "uid_4c75c8a4af608512"
+        ],
+        "createTime": 1792396035463,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792398017765,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 33,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

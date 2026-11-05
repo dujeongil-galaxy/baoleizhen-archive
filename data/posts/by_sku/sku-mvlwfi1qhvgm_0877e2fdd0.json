@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "a2cf60796adc33fb00328b12611467b7",
+        "id": "a2cf60796adc33fb00328b12611467b7",
+        "skuId": "sku-mvlwfi1qhvgm",
+        "type": "review",
+        "score": 1,
+        "tag": "品质差",
+        "title": "实测：光庆 南极磷虾肉280克*1罐",
+        "brand": "某庆",
+        "brandRaw": "光庆",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "光庆GQ海鲜官方旗舰店",
+        "anchorRaw": "光庆GQ海鲜官方旗舰店",
+        "content": "很难吃很难吃超级难吃，特别特别的咸\n主播/店铺：光庆GQ海鲜官方旗舰店",
+        "evidenceLevel": "L2",
+        "price": "15.2",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792816117504_0_2wzd4b.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792816117506_1_3v61dd.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792816117507_2_t52vem.jpg"
+          }
+        ],
+        "author": "耄耋",
+        "authorUid": "uid_8227130a5e3e7502",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792816123052,
+        "date": "2026-10-24",
+        "status": "approved",
+        "auditTime": 1792831226681,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791971947557_gfbg7j.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

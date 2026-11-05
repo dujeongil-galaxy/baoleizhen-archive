@@ -1,0 +1,23 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "skuId": "sku-mv991g3x1d30",
+        "name": "耳塞防噪音睡眠蓝5对装加强防噪天际蓝5对",
+        "count": 1
+      },
+      {
+        "skuId": "sku-mvb3sj6ft6na",
+        "name": "香鸭腿100g袋装香辣即食卤味熟食下酒菜温州特产",
+        "count": 1
+      },
+      {
+        "skuId": "sku-mvb4z8zy6zry",
+        "name": "白色折影3.0棱角透光侧刻键帽",
+        "count": 1
+      }
+    ],
+    "total": 3
+  }
+}

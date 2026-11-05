@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446acf70d201461d7362eb8f54",
+        "id": "572942446acf70d201461d7362eb8f54",
+        "skuId": "sku-mv82gozx4r1m",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：iphone iphone air手机（146）",
+        "brand": "iphone",
+        "brandRaw": "iphone",
+        "category": "digital",
+        "platform": "某东",
+        "channel": "旗舰店",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "喜欢的很喜欢 不喜欢的不喜欢 其实还可以吧 用了一个月对于我来说所有问题都可以接受\n1.电池容量低：充电宝（超薄）\n2.单扬声器：还可以 刷抖音没什么影响 但是打游戏就有影响 可是解决方法就是带耳机\n3.单摄像头：画质不错 就是没有广角有时候会难受 但实际用的场景不多\n4.充电速度：全原装充电充饱应该1小时左右（大概） 前80分钟很快\n续航：一天不打游戏从八点开始95%电量 晚上九点回到家了还有21%的电量 偶尔刷刷视频 拍照\n但是如果重度使用要带充电宝\n⚠️打游戏的话 王者没有120帧 打瓦会有锁帧80帧\n\n\n总结：卖8499就是🔟但是5499就是真香！非常薄！喜欢的很喜欢可以接受任何缺点也可以解决",
+        "evidenceLevel": "L2",
+        "price": "5499",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791979715184_0_jkuvpf.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791979715188_1_ykd4ei.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791979715189_2_ps1e3h.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_1969416722299dc5",
+        "creditScore": 15,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791979730004,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791980181041,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792159386548_6rae4g.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

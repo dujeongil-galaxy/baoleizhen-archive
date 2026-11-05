@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "1457ac026ae0a54e0036e14407639d3b",
+        "id": "1457ac026ae0a54e0036e14407639d3b",
+        "skuId": "sku-mvqpryor9qq6",
+        "type": "review",
+        "score": 3,
+        "tag": "品质差",
+        "title": "实测：栗栗生 新果现发甜糯甘栗仁油栗仁去壳板栗仁即食熟解馋小零食",
+        "brand": "栗某生",
+        "brandRaw": "栗栗生",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "我在我在这在这家店买了有三次，第一次和第二次没什么坏果第三次有一小半全是坏果",
+        "evidenceLevel": "L2",
+        "price": "39.21",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 3 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793107274500_0_qg7ouy.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793107274503_1_7lr4qh.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793107274504_2_yzprl0.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793107274505_3_o1qwdy.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_3fe5969ee080e366",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793107278050,
+        "date": "2026-10-27",
+        "status": "approved",
+        "auditTime": 1793111762980,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

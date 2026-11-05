@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "5675503f6aec71440017fb973b489311",
+        "id": "5675503f6aec71440017fb973b489311",
+        "skuId": "sku-mw3i2ecos74k",
+        "type": "review",
+        "score": 2,
+        "tag": "品质差",
+        "title": "实测：ColdAsia 冷亚洲原创白色斑马纹[现货];L",
+        "brand": "ColdAsia",
+        "brandRaw": "ColdAsia",
+        "category": "clothing",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "某方",
+        "anchorRaw": "官方",
+        "content": "衣服前那个一洗掉色一大坨，版型特别差\n主播/店铺：某方",
+        "evidenceLevel": "L2",
+        "price": "147",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793880384122_0_c652pm.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793880384123_1_z6fvht.jpg"
+          }
+        ],
+        "author": "🥚",
+        "authorUid": "uid_e2122e6fad0535cb",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793880388164,
+        "date": "2026-11-05",
+        "status": "approved",
+        "auditTime": 1793881763422,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791978263359_e2wlqd.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

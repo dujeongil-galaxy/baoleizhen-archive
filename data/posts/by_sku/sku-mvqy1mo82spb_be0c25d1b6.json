@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "e033fa346ae0db8e00600a6a47e01c58",
+        "id": "e033fa346ae0db8e00600a6a47e01c58",
+        "skuId": "sku-mvqy1mo82spb",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：安耳悠 德国安耳悠睡觉专用耳塞静...",
+        "brand": "安某悠",
+        "brandRaw": "安耳悠",
+        "category": "home",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "Ohrfrieden安耳悠家居旗舰店",
+        "anchorRaw": "Ohrfrieden安耳悠家居旗舰店",
+        "content": "非常好用，捏扁塞入耳内，保证10s内回弹（说明书上写的保证）实测非常真实，回弹会自动贴合耳朵内的形状，带上之后非常隔音\n主播/店铺：Ohrfrieden安耳悠家居旗舰店",
+        "evidenceLevel": "L3",
+        "price": "15.00",
+        "claimEvidence": "已上传宣称证据 1 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793121159724_0_j09sbd.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793121159727_1_96jfj9.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1793121159728_2_pi7ovt.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_f148b9cf2480e992",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_f148b9cf2480e992"
+        ],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_f148b9cf2480e992"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1793121165971,
+        "date": "2026-10-28",
+        "status": "approved",
+        "auditTime": 1793164699199,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1793122678652_9sqpqw.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

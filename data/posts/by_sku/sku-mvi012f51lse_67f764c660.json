@@ -1,0 +1,92 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad89acf01abd5236d6463fd",
+        "id": "572942446ad89acf01abd5236d6463fd",
+        "skuId": "sku-mvi012f51lse",
+        "type": "review",
+        "score": 3,
+        "tag": "划算",
+        "title": "实测：范秀娟 范秀娟无骨鸡爪",
+        "brand": "范某娟",
+        "brandRaw": "范秀娟",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "范秀娟官方旗某店",
+        "anchorRaw": "范秀娟官方旗舰店",
+        "content": "划算 ，量大，但不是算不上太好吃 吃到后面感觉鸡爪泡的柠檬应该是添加剂，而且小骨头也挺多，有点影响体验感，对了 还有的的鸡爪是黑的，可以自行判断\n主播/店铺：范秀娟官方旗某店",
+        "evidenceLevel": "L2",
+        "price": "39.90",
+        "claimEvidence": "",
+        "realEvidence": "实拍 4 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792580297516_0_jfkgr5.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792580297518_1_xsolz0.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792580297518_2_yjgkqe.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792580297518_3_ei41r0.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792580297518_4_rv2or1.jpg"
+          }
+        ],
+        "author": "耄耋",
+        "authorUid": "uid_8227130a5e3e7502",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_8227130a5e3e7502",
+          "uid_3201c207b0ebc0cd"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792580303359,
+        "date": "2026-10-21",
+        "status": "approved",
+        "auditTime": 1792581954368,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791971947557_gfbg7j.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

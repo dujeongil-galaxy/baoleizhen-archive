@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad2321001136d9e21d8dccc",
+        "id": "025756256ad2321001136d9e21d8dccc",
+        "skuId": "sku-mvb1ych28ims",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：公牛 电竞插排桌下长条8位总控GNE-P108E",
+        "brand": "某牛",
+        "brandRaw": "公牛",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "公牛胜之利专某店",
+        "anchorRaw": "公牛胜之利专卖店",
+        "content": "这个插座我买回来了试了一下\n2.5kw的峰值 \n电脑整体算1kw \n其他的零零碎碎算1kw\n理论上只要不拿插排乱搞还是没问题的\n主播/店铺：公牛胜之利专某店",
+        "evidenceLevel": "L2",
+        "price": "78.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160265875_0_f73tbv.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792160265880_1_raa583.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_3f35d39a9e721185"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792160272439,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792160643999,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

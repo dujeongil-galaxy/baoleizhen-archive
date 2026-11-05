@@ -1,0 +1,94 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446acf90e5014813020facc5cf",
+        "id": "572942446acf90e5014813020facc5cf",
+        "skuId": "sku-mv87coto0d05",
+        "type": "review",
+        "score": 2,
+        "tag": "品质差",
+        "title": "实测：vivo vivox100spro手机",
+        "brand": "vivo",
+        "brandRaw": "vivo",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "旗舰店",
+        "anchor": "百亿某贴",
+        "anchorRaw": "百亿补贴",
+        "content": "这还没到两年呢就事故频发，今年从7月份到10月份夏天经常性手机死机黑屏，偶尔伴随花屏。从今年年初到现在WiFi非常经常性的卡住无网络。两天前手机屏幕出现横线，我手机屏幕无外伤，边框无磕碰，正常使用中屏幕故障，虽然过保了但旗舰机两年寿命实在质量堪忧\n主播/店铺：百亿某贴",
+        "evidenceLevel": "L3",
+        "price": "3496",
+        "claimEvidence": "已上传宣称证据 2 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791987937801_0_6cqrmk.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791987937807_1_lftowm.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791987937807_2_s91jln.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791987937807_3_8bwag9.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_94d6c5c58992e291",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_fd4d00bdfd1daf8f"
+        ],
+        "agreeCount": 3,
+        "agreeUserIds": [
+          "uid_0f046d219d9b1eb8",
+          "uid_fd4d00bdfd1daf8f",
+          "uid_45a540675e72c0d4"
+        ],
+        "doubtCount": 4,
+        "doubtUserIds": [
+          "uid_d2f2a67754d4e541",
+          "uid_429cd24ce48f3482",
+          "uid_c0a8f13b91586a1f",
+          "uid_d48d31ef90153b66"
+        ],
+        "createTime": 1791987941236,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791990678532,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 43,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256acef9cf00d07c3a49816d99",
+        "id": "025756256acef9cf00d07c3a49816d99",
+        "skuId": "sku-mv7kbozniyji",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：CENTURY AOKE 圆形五通道遥控器 拷贝遥控器 复制遥控器 五合一充电遥控器（36mm*36mm*11mm）",
+        "brand": "CENTURY AOKE",
+        "brandRaw": "CENTURY AOKE",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "其他",
+        "anchor": "奥柯某子",
+        "anchorRaw": "奥柯电子",
+        "content": "夯爆了，有443频率和315频率可选，4个按键，有四套可以切换，共计可以存16个按键，超级小还带粘胶和硅胶保护盖，本来打算让ai做个最小的遥控器，算下来这个非常划算\n主播/店铺：奥柯某子",
+        "evidenceLevel": "L2",
+        "price": "28",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791949257741_0_rgqwle.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791949257742_1_n0nb15.jpg"
+          }
+        ],
+        "author": "Zimerence",
+        "authorUid": "uid_028a80b62c04f808",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_028a80b62c04f808"
+        ],
+        "agreeCount": 3,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666",
+          "uid_7b79fcce194ef2d4",
+          "uid_9fa124272cd91818"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1791949263631,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791958770349,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": true,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791948904426_nfbg4u.png",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

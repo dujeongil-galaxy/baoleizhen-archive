@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "e033fa346ade040f00137b02717243fb",
+        "id": "e033fa346ade040f00137b02717243fb",
+        "skuId": "sku-mvnv5vrkrsee",
+        "type": "review",
+        "score": 1,
+        "tag": "",
+        "title": "实测：三只松鼠 超大腕武汉热干面",
+        "brand": "三只某鼠",
+        "brandRaw": "三只松鼠",
+        "category": "food",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "难吃，根本就不是热干面，哪里有热干面有麻酱的，吃起来发苦，面吃起来像生的，泡不开",
+        "evidenceLevel": "L2",
+        "price": "14.24",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792934918979_0_7gyt5y.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792934918982_1_ks4gah.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_6ae3bad46e9393d2",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792934926893,
+        "date": "2026-10-25",
+        "status": "approved",
+        "auditTime": 1792936475531,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

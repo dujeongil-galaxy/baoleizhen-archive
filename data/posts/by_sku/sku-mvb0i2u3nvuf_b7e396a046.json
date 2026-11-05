@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad228890164669b2070054f",
+        "id": "572942446ad228890164669b2070054f",
+        "skuId": "sku-mvb0i2u3nvuf",
+        "type": "review",
+        "score": 4,
+        "tag": "推荐",
+        "title": "实测：动能加 电解质粉冲剂饮料水",
+        "brand": "动某加",
+        "brandRaw": "动能加",
+        "category": "sports",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "动能加旗某店",
+        "anchorRaw": "动能加旗舰店",
+        "content": "价格可以 味道也可以 \n一袋蓝莓味道适合500ml水\n一袋葡萄适合1L水\n芭乐味道特别淡 加到500ml水里却只有淡淡的芭乐味道 几乎没有甜味\n主播/店铺：动能加旗某店",
+        "evidenceLevel": "L2",
+        "price": "9.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792157828300_0_0wtyu9.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792157828303_1_kk9mox.jpg"
+          }
+        ],
+        "author": "周舟粥洲🥣",
+        "authorUid": "uid_29ce39c6be5f5531",
+        "creditScore": 191,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792157833881,
+        "date": "2026-10-16",
+        "status": "approved",
+        "auditTime": 1792158329078,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1791979527287_hregvq.jpg",
+        "isJury": true,
+        "isFollowed": false
+      }
+    ]
+  }
+}

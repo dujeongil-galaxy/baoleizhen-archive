@@ -1,0 +1,107 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad73e07016e90e45143d182",
+        "id": "025756256ad73e07016e90e45143d182",
+        "skuId": "sku-mvgivbjqagx9",
+        "type": "review",
+        "score": 1,
+        "tag": "货不对板",
+        "title": "实测：vivo vivo iQO015 自研电竞芯片Q3第五代骁龙8",
+        "brand": "vivo",
+        "brandRaw": "vivo",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "iQOO",
+        "anchorRaw": "iQOO",
+        "content": "避雷 iQOO 15！官网宣传UFS4.1，实测竟是4.0，客服说法前后矛盾！\n\n冲着官方宣传全系标配UFS 4.1买的（16+512G），结果到手后用系统底层日志一查，闪存料号是 KLUFG4NHHB-F0G1（第三方数据库全标注为原生UFS 4.0）。\n\n最离谱的是官方的态度：\n1️⃣ 早期：三星官网及第三方平台均标注该型号为4.0。\n2️⃣ 事后：UFS混用事件爆发后，三星半导体发微博改口说该型号属于4.1系列。注：微博发文并不具备任何法律效应，且至今没有任何原厂规格证书与相关文件在官网展出。\n3️⃣ 对质：vivo客服在电话里口述：“该芯片初始推出时是4.0行业标准，靠后续存储器厂商固件升级才支持4.1”。\n\n官网宣传全系标配4.1，既没有提前告知这是4.0靠软件OTA升级的，也没有在页面标注混用，这难道不是隐瞒消费者吗？\n主播/店铺：IQOO",
+        "evidenceLevel": "L3",
+        "price": "3999.1",
+        "claimEvidence": "已上传宣称证据 4 项",
+        "realEvidence": "实拍 3 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792490973523_0_9e67h9.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792490973524_1_xpd9kf.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792490973524_2_q78ayg.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792490973524_3_b13fj7.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792490973524_4_vycfhh.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792490973524_5_bwuyf5.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792490973524_6_wdu2x3.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792490973524_7_88ahub.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_1e25ffad2340b08d",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792491015620,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792494727409,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

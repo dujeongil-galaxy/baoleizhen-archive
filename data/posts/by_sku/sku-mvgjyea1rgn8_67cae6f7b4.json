@@ -1,0 +1,81 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "3f1b36026ad74526015c61d952dd2e98",
+        "id": "3f1b36026ad74526015c61d952dd2e98",
+        "skuId": "sku-mvgjyea1rgn8",
+        "type": "review",
+        "score": 3,
+        "tag": "",
+        "title": "实测：英之素 肌酸健身补剂运动爆发力耐力水肌高纯",
+        "brand": "英某素",
+        "brandRaw": "英之素",
+        "category": "sports",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "问一下这款蛋白粉是不是跟豆包说的一样",
+        "evidenceLevel": "L2",
+        "price": "328",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 3 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792492832994_0_eri2zq.png"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792492832997_1_3htcuy.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792492832999_2_81ts70.png"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792492833000_3_mtvv9j.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_f9148020977b47f6",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792492838729,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792494721064,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

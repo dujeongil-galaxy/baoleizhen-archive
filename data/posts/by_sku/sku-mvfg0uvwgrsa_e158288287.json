@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad63f29015f2dee7815c275",
+        "id": "025756256ad63f29015f2dee7815c275",
+        "skuId": "sku-mvfg0uvwgrsa",
+        "type": "review",
+        "score": 3,
+        "tag": "一般",
+        "title": "实测：OPPO OPPO Enco Free4（丹拿版）",
+        "brand": "OPPO",
+        "brandRaw": "OPPO",
+        "category": "digital",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "OPPO",
+        "anchorRaw": "OPPO",
+        "content": "没有想象中的好，音质确实比我之前用的一个红米耳机好，在刷短视频时声音会非常杂，把空间音频关了可以减少，而且我找官方换过一次货了，比较影响日常体验吧，续航的话，我一天最多用两个小时左右，一个星期是能坚持下来的。这个耳机音质我感觉还是不错的。\n主播/店铺：OPPO",
+        "evidenceLevel": "L2",
+        "price": "318.25",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425764457_0_juqni1.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425764458_1_pvbdal.jpg"
+          }
+        ],
+        "author": "付谢娜",
+        "authorUid": "uid_0cd5e05fb284b982",
+        "creditScore": 10,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792425768941,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792425793728,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792425025089_g6jyv1.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

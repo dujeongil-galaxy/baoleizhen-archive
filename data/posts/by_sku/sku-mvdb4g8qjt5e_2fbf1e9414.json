@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "025756256ad4469e013e76c8665765f3",
+        "id": "025756256ad4469e013e76c8665765f3",
+        "skuId": "sku-mvdb4g8qjt5e",
+        "type": "review",
+        "score": 4,
+        "tag": "",
+        "title": "实测：衣间小语 美式甜妹刺绣徽章连帽拉链卫衣女2026秋冬星星满印撞色开衫外套",
+        "brand": "衣间某语",
+        "brandRaw": "衣间小语",
+        "category": "clothing",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "衣间某语",
+        "anchorRaw": "衣间小语",
+        "content": "它那里是有一个丝带挡住那个“B”这字母的大标了   我买的时候我都没看见 買回來版型不錯 但是真的特別难看那个“B”\n主播/店铺：衣间某语",
+        "evidenceLevel": "L2",
+        "price": "45.7",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792296600863_0_agopz8.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792296600867_1_5eews5.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792296600868_2_rw990a.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_4b47ea9827b570b2",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792296606185,
+        "date": "2026-10-18",
+        "status": "approved",
+        "auditTime": 1792298428481,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/avatars/1792296631796_7dqgjh.jpg",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

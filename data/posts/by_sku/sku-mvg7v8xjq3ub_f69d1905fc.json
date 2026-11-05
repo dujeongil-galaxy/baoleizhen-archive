@@ -1,0 +1,75 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad6f5d80195409b47261e4a",
+        "id": "572942446ad6f5d80195409b47261e4a",
+        "skuId": "sku-mvg7v8xjq3ub",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：困困鸭 第二代困困鸭小火箭耳塞",
+        "brand": "困某鸭",
+        "brandRaw": "困困鸭",
+        "category": "health",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "困困鸭耳塞，比安某优好用多了，不涨耳\n本人买了几百块钱的耳塞，试过好几个牌子只推荐这个，涨耳可擦白凡士林",
+        "evidenceLevel": "L2",
+        "price": "27.6",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792472523119_0_rylieh.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792472523120_1_m5qo8d.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_681414b265f53838",
+        "creditScore": 7,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_681414b265f53838"
+        ],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_681414b265f53838"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792472536404,
+        "date": "2026-10-20",
+        "status": "approved",
+        "auditTime": 1792473536190,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

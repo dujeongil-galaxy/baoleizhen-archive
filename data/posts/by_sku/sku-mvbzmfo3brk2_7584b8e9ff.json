@@ -1,0 +1,88 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad30ef70060cb2127a03dc3",
+        "id": "ee9c9df06ad30ef70060cb2127a03dc3",
+        "skuId": "sku-mvbzmfo3brk2",
+        "type": "review",
+        "score": 2,
+        "tag": "品质差",
+        "title": "实测：杉某太 厨房家用洗洁水樓电液器精压取器洗菜盆水槽按压器皂液器",
+        "brand": "杉某太",
+        "brandRaw": "杉某太",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "杉太卫浴官方旗某店",
+        "anchorRaw": "杉太卫浴官方旗舰店",
+        "content": "用了不到半年上盖有裂纹，售后说过质保不影响使用，现在不到一年彻底不能用了\n主播/店铺：杉太卫浴官方旗某店",
+        "evidenceLevel": "L3",
+        "price": "13.9",
+        "claimEvidence": "已上传宣称证据 2 项",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792216821814_0_v9hu1q.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792216821816_1_x9p8fu.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792216821818_2_nvxvpo.jpg"
+          },
+          {
+            "label": "宣称证据",
+            "thumb": "",
+            "type": "claim",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792216821819_3_j4m145.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_2ff61fb9f0adfd97",
+        "creditScore": 16,
+        "merchantResponse": null,
+        "helpfulCount": 1,
+        "helpfulUserIds": [
+          "uid_2ff61fb9f0adfd97"
+        ],
+        "agreeCount": 2,
+        "agreeUserIds": [
+          "uid_2ff61fb9f0adfd97",
+          "uid_c0a8f13b91586a1f"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792216823666,
+        "date": "2026-10-17",
+        "status": "approved",
+        "auditTime": 1792218042701,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

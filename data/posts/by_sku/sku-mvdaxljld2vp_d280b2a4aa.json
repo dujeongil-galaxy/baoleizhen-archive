@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad4455e0176dbdc5dfd66a7",
+        "id": "572942446ad4455e0176dbdc5dfd66a7",
+        "skuId": "sku-mvdaxljld2vp",
+        "type": "review",
+        "score": 2,
+        "tag": "",
+        "title": "实测：TKK 保温杯陶瓷内胆咖啡杯生款男便携不锈钢随行吸管水杯子",
+        "brand": "TKK",
+        "brandRaw": "TKK",
+        "category": "home",
+        "platform": "某多",
+        "channel": "",
+        "anchor": "名品杯壶家某馆",
+        "anchorRaw": "名品杯壶家居馆",
+        "content": "杯子本身质量没有任何问题，但赠送的提手绳质量较差，大家在购买时注意，另外泡茶使用的用户，还是选择玻璃杯，这款茶渍不好清理。\n主播/店铺：名品杯壶家某馆",
+        "evidenceLevel": "L2",
+        "price": "73.3",
+        "claimEvidence": "",
+        "realEvidence": "实拍 2 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792296278101_0_in2xzg.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792296278103_1_7cpdwl.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792296278104_2_s87v5d.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_afb5a579d661eaa1",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_afb5a579d661eaa1"
+        ],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792296286445,
+        "date": "2026-10-18",
+        "status": "approved",
+        "auditTime": 1792298432241,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 100,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

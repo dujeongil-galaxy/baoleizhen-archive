@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "572942446ad634e1018be6966958b176",
+        "id": "572942446ad634e1018be6966958b176",
+        "skuId": "sku-mvfeggnqd5ap",
+        "type": "review",
+        "score": 4,
+        "tag": "划算",
+        "title": "实测：星优 书包置物架小推车可移动书本收纳架多功能桌",
+        "brand": "某优",
+        "brandRaw": "星优",
+        "category": "home",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "星优某居",
+        "anchorRaw": "星优家居",
+        "content": "质量还是挺好的用了快一年了也没坏 就是不好组装拆卸\n学生党用两层就可以了三层感觉有点高\n主播/店铺：星优某居",
+        "evidenceLevel": "L2",
+        "price": "37.9",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792423132330_0_ouc7i2.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792423132331_1_bhu52g.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_fbef1ea529adff14",
+        "creditScore": 16,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792423137796,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792423303372,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

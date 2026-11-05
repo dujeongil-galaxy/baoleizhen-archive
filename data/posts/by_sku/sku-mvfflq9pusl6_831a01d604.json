@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06ad63c6700862d644ee831b3",
+        "id": "ee9c9df06ad63c6700862d644ee831b3",
+        "skuId": "sku-mvfflq9pusl6",
+        "type": "review",
+        "score": 3,
+        "tag": "推荐",
+        "title": "实测：REDMI K90 Pro Max",
+        "brand": "REDMI",
+        "brandRaw": "REDMI",
+        "category": "digital",
+        "platform": "某宝",
+        "channel": "",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "想买这个三款手机然后我上大学生推荐推荐不怎么打游戏在手机上平常用平板",
+        "evidenceLevel": "L2",
+        "price": "4999",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 3 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425058560_0_uwik0z.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425058562_1_xmjqw1.jpg"
+          },
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425058562_2_0t3u2a.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792425058562_3_0i1af3.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_068c4834fcf9280d",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 1,
+        "doubtUserIds": [
+          "uid_761900ddd663032f"
+        ],
+        "createTime": 1792425063144,
+        "date": "2026-10-19",
+        "status": "approved",
+        "auditTime": 1792425382663,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

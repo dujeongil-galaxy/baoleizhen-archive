@@ -1,0 +1,71 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "e033fa346ade0a6c0013a3021c6a329e",
+        "id": "e033fa346ade0a6c0013a3021c6a329e",
+        "skuId": "sku-mvnw4t9s136z",
+        "type": "review",
+        "score": 3,
+        "tag": "一般",
+        "title": "实测：脱骨侠 脱骨侠蒜香柠檬酸辣无骨鸡爪",
+        "brand": "脱某侠",
+        "brandRaw": "脱骨侠",
+        "category": "food",
+        "platform": "某音",
+        "channel": "",
+        "anchor": "凌达乐v",
+        "anchorRaw": "凌达乐v",
+        "content": "味道确实挺一般的，没有我买的别家好吃，很一般吧，吃了一口就没有再想吃的欲望\n主播/店铺：凌达乐v",
+        "evidenceLevel": "L2",
+        "price": "23.90",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792936551138_0_jjvnll.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1792936551140_1_8s5rrz.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_fbef1ea529adff14",
+        "creditScore": 16,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 0,
+        "agreeUserIds": [],
+        "doubtCount": 0,
+        "doubtUserIds": [],
+        "createTime": 1792936556537,
+        "date": "2026-10-25",
+        "status": "approved",
+        "auditTime": 1792941295516,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 0,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}

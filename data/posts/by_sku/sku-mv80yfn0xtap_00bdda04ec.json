@@ -1,0 +1,76 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "_id": "ee9c9df06acf66ee0039e6874b2dd07d",
+        "id": "ee9c9df06acf66ee0039e6874b2dd07d",
+        "skuId": "sku-mv80yfn0xtap",
+        "type": "review",
+        "score": 5,
+        "tag": "推荐",
+        "title": "实测：日本LEC 激落君纳米魔力海绵魔术擦泡绵厨房洗碗去污清洁神器袋装（120×75×32mm,20个）",
+        "brand": "日本LEC",
+        "brandRaw": "日本LEC",
+        "category": "home",
+        "platform": "某宝",
+        "channel": "旗舰店",
+        "anchor": "",
+        "anchorRaw": "",
+        "content": "清洁能力特别强，一般的海绵擦不下来的它都能擦，而且很小一块，脏了就丢，非常方便，刷碗刷鞋都可以用",
+        "evidenceLevel": "L2",
+        "price": "9.55",
+        "claimEvidence": "",
+        "realEvidence": "实拍 1 项 + 订单凭证 1 张",
+        "media": [
+          {
+            "label": "订单凭证",
+            "type": "order",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791977194856_0_lpya3z.jpg"
+          },
+          {
+            "label": "实物实拍",
+            "thumb": "",
+            "type": "photo",
+            "url": "cloud://bilei-d1g97vsxp79326658.6269-bilei-d1g97vsxp79326658-1257423392/media/1791977194859_1_6rvqom.jpg"
+          }
+        ],
+        "author": "微信用户",
+        "authorUid": "uid_8f60ab76c9c68ec2",
+        "creditScore": 5,
+        "merchantResponse": null,
+        "helpfulCount": 0,
+        "helpfulUserIds": [],
+        "agreeCount": 1,
+        "agreeUserIds": [
+          "uid_3e47ab0af575d666"
+        ],
+        "doubtCount": 2,
+        "doubtUserIds": [
+          "uid_907c5ea9bc47314c",
+          "uid_29a644134520f99a"
+        ],
+        "createTime": 1791977198471,
+        "date": "2026-10-14",
+        "status": "approved",
+        "auditTime": 1791978082293,
+        "isMine": false,
+        "updates": [],
+        "helpfulOn": false,
+        "agreeOn": false,
+        "doubtOn": false,
+        "agreeRatio": 33,
+        "pendingVerify": false,
+        "arbitration": "",
+        "arbitrationResult": "",
+        "arbitrationReal": 0,
+        "arbitrationFake": 0,
+        "arbitrationUnknown": 0,
+        "myArbitrationVote": "",
+        "avatar": "",
+        "isJury": false,
+        "isFollowed": false
+      }
+    ]
+  }
+}
