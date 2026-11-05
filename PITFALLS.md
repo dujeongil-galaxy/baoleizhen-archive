@@ -78,3 +78,17 @@ SKU 的 `id` 不是纯 ID，而是 `脱骨侠|无骨鸡爪（450g）|某音|旗�
 ## 10. 解包索引项可能畸形
 
 标准 wxapkg 索引是 `nameLen(4) + name + offset(4) + size(4)`，个别包会出现异常 `nameLen`，直接 `readUInt32BE` 会 `ERR_OUT_OF_RANGE` 崩掉整个解包（已有文件能写出但脚本报错）。`tools/unpack_wxapkg.cjs` 里加了边界检查，遇异常项提前结束。
+
+## 11. 离线归档别收「记账文档」，改数据后必须重打包
+
+归档 zip 里如果塞进 README / CHANGELOG / PITFALLS，每次「提交 → 用真实哈希回填文档」都会让二进制包变化，git 里堆一堆无意义的大文件版本，还会让「归档 = 数据时点快照」这个语义失效。所以 `build_archive.py` 只收 `data/`、`snapshots/`、`DATA_SUMMARY.md`、`data/README.md`、还原脚本与 `RESTORE.txt`；记账文档留在仓库里即可。
+
+反过来，**改过 `data/` 或 `DATA_SUMMARY.md` 之后必须重跑 `build_archive.py`**：`ARCHIVE_MANIFEST.json` 记录的是打包那一刻的 SHA256，漏重打包会让 zip 和工作区数据不一致，`restore.py --check` 会直接判红。这条已写进 `data/README.md` 和 `RESTORE.txt`。
+
+## 12. 哈希一致 ≠ 数据正确，故障注入要覆盖「内容级」样本
+
+只测「篡改一个字节 → SHA256 判红」是不够的：如果有人把脏数据连同 manifest 里的哈希一起改掉，所有哈希检查都会通过。`tests/test_restore.py` 因此专门做了两个**同步重算哈希**的注入样本（明文 openid、孤立 `skuId`），确认条数 / 引用 / 隐私这类**内容级校验**独立于哈希也能判红。写校验器时这两层要分开测。
+
+## 13. Python `bytes` 字面量里不能写中文
+
+测试里想用 `b"正文A"` 做篡改样本，直接 `SyntaxError: bytes can only contain ASCII literal characters`。改成替换 ASCII 字段（`b"published"` → `b"publisheX"`），或用 `"中文".encode()`。另外 `py_compile` 生成的 `__pycache__/*.pyc` 会保留**修改前**的字符串字面量，全仓 `grep` 复查敏感串时要先清掉，否则旧缓存会造成误报（本轮就命中过一次 `tests/__pycache__/test_restore.cpython-313.pyc`）。

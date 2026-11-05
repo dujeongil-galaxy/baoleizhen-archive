@@ -1,0 +1,45 @@
+网购避雷真 · 离线数据归档还原说明
+========================================
+
+这个 zip 是自包含的：里面有全量数据、校验清单（ARCHIVE_MANIFEST.json）和还原脚本。
+不需要联网，不需要原小程序，不需要微信云开发，不需要第三方 Python 包（只用标准库）。
+
+一、只看数据
+    用任意解压软件打开即可。都是明文文件：
+      data/sku/sku.jsonl              664 条商品记录，一行一个 JSON
+      data/posts/posts.jsonl          195 篇实测/避雷帖（含正文），一行一个 JSON
+      data/posts/by_sku/*.json        按商品抓取的原始接口响应（664 个）
+      data/sku/sku_list_raw.json      商品列表原始响应
+      data/misc/*.json                其他只读接口响应
+      data/api-contract.json          接口契约与字段来源
+      data/meta.json                  抓取时间、条数、耗时
+      DATA_SUMMARY.md / data/README.md 统计摘要与字段说明
+      snapshots/miniprogram/          小程序配置与分类图
+
+二、校验数据没坏（不写任何文件）
+    python tools/restore.py --archive baoleizhen-snapshot.zip --check
+    逐文件核对 SHA256、体积、条数、帖子 id 唯一性、SKU 引用完整性、明文 openid。
+    全部通过才建议还原；任何一项 FAIL 会返回非零退出码。
+
+三、完整还原
+    python tools/restore.py --archive baoleizhen-snapshot.zip --out restored
+    校验通过后：
+      restored/data/                按原结构还原的全部文件
+      restored/baoleizhen.db        SQLite：skus / posts / meta 三表
+                                    json 列保留每条记录的完整原始字段
+      restored/README.txt           还原结果说明
+    可以直接拿 SQLite 重建查询服务，或从 jsonl 导入任意数据库：
+      sqlite3 restored/baoleizhen.db "SELECT COUNT(*) FROM posts;"
+
+四、注意
+  * 图片是 cloud:// 私有引用，原件不在归档内（COS 直链 403），只有引用地址。
+  * openid / uid 类个人标识符已做一致性哈希脱敏，还原后同样是脱敏值。
+  * 这是抓取时点的快照，不含之后新增内容；数据版权归原小程序与原发帖用户所有，
+    本包仅作资料性存档备份。
+
+要重新生成归档（在仓库根目录）：
+    python tools/build_archive.py
+要增量更新数据（需要原服务在线）：
+    python tools/fetch_cloud.py --out data --delay 0.1 --workers 3
+    python tools/make_summary.py
+    python tools/build_archive.py

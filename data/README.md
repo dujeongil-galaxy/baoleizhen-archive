@@ -19,10 +19,24 @@
 ```bash
 python tools/fetch_cloud.py --out data --delay 0.15   # 断点续抓，已存在的 by_sku 文件默认跳过
 python tools/make_summary.py                          # 重新生成摘要与完整性校验
-python tests/test_fetch_api.py                         # 通用抓取器自测
+python tools/build_archive.py                         # 重打包离线归档 zip + 清单
+python tests/test_fetch_api.py && python tests/test_fetch_cloud.py && python tests/test_restore.py
 ```
 
 `list` 接口不分页，每次都返回当前全量 SKU；重跑即可拿到新增内容。`--force` 可强制重抓所有 SKU 的帖子。
+
+**改过 `data/` 或 `DATA_SUMMARY.md` 之后必须重跑 `build_archive.py`**，否则 `archive/baoleizhen-snapshot.zip` 与工作区数据不一致（还原校验会比对清单哈希）。README / STATUS / CHANGELOG / PITFALLS 属于仓库记账文档，刻意不收进归档，改它们不需要重打包。
+
+## 离线归档与恢复
+
+`archive/baoleizhen-snapshot.zip` 是**自包含单文件归档**：含 `data/` 全部内容、小程序静态快照、字段说明、还原脚本与 `ARCHIVE_MANIFEST.json`（逐文件 SHA256 / 体积 / 条数）。不联网、不依赖原服务、不依赖第三方库。
+
+```bash
+python tools/restore.py --check                       # 只校验 14 项，不写文件
+python tools/restore.py --out restored                # 校验通过后解包 + 生成 baoleizhen.db
+```
+
+还原产物：`restored/data/`（原结构全量文件）、`restored/baoleizhen.db`（SQLite：`skus` / `posts` / `meta`，`json` 列保留完整原始字段）。包内 `archive/RESTORE.txt` 有脱离本仓库单独使用的完整说明。
 
 ## 主要字段
 

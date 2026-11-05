@@ -31,6 +31,14 @@
 | 公开文件无明文 openid | PASS（命中 0 个） |
 | 抓取失败数 | 0 / 664 |
 
+## 离线归档（防下架恢复）
+
+已生成 `archive/baoleizhen-snapshot.zip`（695 个文件，压缩后 707 KB），把散在 676 个文件里的数据收成**一个自包含包**：数据全量 + 小程序静态快照 + 字段说明 + 还原脚本 + `ARCHIVE_MANIFEST.json`（逐文件 SHA256 / 体积 / 条数）。只用 Python 标准库，不联网、不依赖云函数。
+
+`python tools/restore.py --check` 实跑 **14/14 PASS**；`--out restored` 实跑还原出 `data/` 全量 + SQLite `baoleizhen.db`（`skus` 664 行 / `posts` 195 行，抽查字段正确）。`tests/test_restore.py` 10 项全过，含 6 类故障注入：内容篡改、文件缺失、未登记文件、条数不符、明文 openid、孤立 SKU 引用，全部判红，坏归档被拒绝还原。
+
+**当前按用户要求不搭建任何 Web 服务**；数据以 GitHub 仓库 + 单文件归档形式静默保存，需要恢复时再按 `archive/RESTORE.txt` 还原。
+
 ## 未覆盖 / 已知边界
 
 1. **实拍图与订单凭证未下载**：`cloud://` 私有读，COS 直链 403，只保留引用。
